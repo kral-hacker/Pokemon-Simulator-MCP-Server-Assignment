@@ -1,0 +1,135 @@
+{
+  "name": "Snubbull",
+  "number": 209,
+  "types": [
+    "Fairy"
+  ],
+  "abilities": [
+    "['Intimidate'",
+    "'Rattled'",
+    "'Run Away']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "special_attack": 40,
+    "special_defense": 40,
+    "speed": 30
+  },
+  "generation": 2,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "power": 80,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "fire-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "fire",
+      "category": "physical",
+      "effect": "Has a 10% chance to burn the target."
+    },
+    {
+      "name": "ice-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "physical",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "thunder-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "physical",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "mega-kick",
+      "power": 120,
+      "accuracy": 75,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 23,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "granbull",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/210/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "snubbull",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/209/"
+      }
+    },
+    "id": 105
+  }
+}

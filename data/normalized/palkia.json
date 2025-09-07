@@ -1,0 +1,101 @@
+{
+  "name": "Palkia",
+  "number": 484,
+  "types": [
+    "Water",
+    "Dragon"
+  ],
+  "abilities": [
+    "['Pressure'",
+    "'Telepathy']"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 100,
+    "special_attack": 150,
+    "special_defense": 120,
+    "speed": 100
+  },
+  "generation": 4,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "roar",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+    },
+    {
+      "name": "flamethrower",
+      "power": 90,
+      "accuracy": 100,
+      "type": "fire",
+      "category": "special",
+      "effect": "Has a 10% chance to burn the target."
+    },
+    {
+      "name": "hydro-pump",
+      "power": 110,
+      "accuracy": 80,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "surf",
+      "power": 90,
+      "accuracy": 100,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Dive users."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "palkia",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/484/"
+      }
+    },
+    "id": 245
+  }
+}

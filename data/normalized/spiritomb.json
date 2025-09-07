@@ -1,0 +1,101 @@
+{
+  "name": "Spiritomb",
+  "number": 442,
+  "types": [
+    "Ghost",
+    "Dark"
+  ],
+  "abilities": [
+    "['Infiltrator'",
+    "'Pressure']"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 92,
+    "defense": 108,
+    "special_attack": 92,
+    "special_defense": 108,
+    "speed": 35
+  },
+  "generation": 4,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "disable",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Disables the target’s last used move for 1-8 turns."
+    },
+    {
+      "name": "psybeam",
+      "power": 65,
+      "accuracy": 100,
+      "type": "psychic",
+      "category": "special",
+      "effect": "Has a 10% chance to confuse the target."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "toxic",
+      "power": null,
+      "accuracy": 90,
+      "type": "poison",
+      "category": "status",
+      "effect": "Badly poisons the target, inflicting more damage every turn."
+    },
+    {
+      "name": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "type": "psychic",
+      "category": "special",
+      "effect": "Has a 10% chance to lower the target’s Special Defense by one stage."
+    },
+    {
+      "name": "hypnosis",
+      "power": null,
+      "accuracy": 60,
+      "type": "psychic",
+      "category": "status",
+      "effect": "Puts the target to sleep."
+    },
+    {
+      "name": "night-shade",
+      "power": null,
+      "accuracy": 100,
+      "type": "ghost",
+      "category": "special",
+      "effect": "Inflicts damage equal to the user’s level."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "spiritomb",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/442/"
+      }
+    },
+    "id": 229
+  }
+}

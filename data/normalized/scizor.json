@@ -1,0 +1,175 @@
+{
+  "name": "Scizor",
+  "number": 212,
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "abilities": [
+    "['Light Metal'",
+    "'Swarm'",
+    "'Technician']"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 130,
+    "defense": 100,
+    "special_attack": 55,
+    "special_defense": 80,
+    "speed": 65
+  },
+  "generation": 2,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "razor-wind",
+      "power": 80,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "swords-dance",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Attack by two stages."
+    },
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "wing-attack",
+      "power": 60,
+      "accuracy": 100,
+      "type": "flying",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "leer",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": {
+                "name": "metal-coat",
+                "url": "https://pokeapi.co/api/v2/item/210/"
+              },
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": null,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "trade",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/2/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "scizor",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/212/"
+          }
+        },
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": {
+                "name": "black-augurite",
+                "url": "https://pokeapi.co/api/v2/item/10001/"
+              },
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": null,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "use-item",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "kleavor",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/900/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "scyther",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/123/"
+      }
+    },
+    "id": 58
+  }
+}

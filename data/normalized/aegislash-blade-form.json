@@ -1,0 +1,23 @@
+{
+  "name": "Aegislash Blade Form",
+  "number": 681,
+  "types": [
+    "Steel",
+    "Ghost"
+  ],
+  "abilities": [
+    "['Stance Change']"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 140,
+    "defense": 70,
+    "special_attack": 140,
+    "special_defense": 70,
+    "speed": 60
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

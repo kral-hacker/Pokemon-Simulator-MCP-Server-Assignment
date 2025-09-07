@@ -1,0 +1,23 @@
+{
+  "name": "Primal Groudon",
+  "number": 383,
+  "types": [
+    "Ground",
+    "Fire"
+  ],
+  "abilities": [
+    "['Desolate Land']"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 180,
+    "defense": 160,
+    "special_attack": 150,
+    "special_defense": 90,
+    "speed": 90
+  },
+  "generation": 6,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

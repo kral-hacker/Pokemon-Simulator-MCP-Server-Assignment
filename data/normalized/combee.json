@@ -1,0 +1,135 @@
+{
+  "name": "Combee",
+  "number": 415,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "abilities": [
+    "['Honey Gather'",
+    "'Hustle']"
+  ],
+  "stats": {
+    "hp": 30,
+    "attack": 30,
+    "defense": 42,
+    "special_attack": 30,
+    "special_defense": 42,
+    "speed": 70
+  },
+  "generation": 4,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "gust",
+      "power": 40,
+      "accuracy": 100,
+      "type": "flying",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Pokémon in the air."
+    },
+    {
+      "name": "string-shot",
+      "power": null,
+      "accuracy": 95,
+      "type": "bug",
+      "category": "status",
+      "effect": "Lowers the target’s Speed by two stages."
+    },
+    {
+      "name": "swift",
+      "power": 60,
+      "accuracy": null,
+      "type": "normal",
+      "category": "special",
+      "effect": "Never misses."
+    },
+    {
+      "name": "snore",
+      "power": 50,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "special",
+      "effect": "Has a 30% chance to make the target flinch.  Only works if the user is sleeping."
+    },
+    {
+      "name": "mud-slap",
+      "power": 20,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "special",
+      "effect": "Has a 100% chance to lower the target’s accuracy by one stage."
+    },
+    {
+      "name": "sleep-talk",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Randomly uses one of the user’s other three moves.  Only works if the user is sleeping."
+    },
+    {
+      "name": "sweet-scent",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s evasion by one stage."
+    },
+    {
+      "name": "endeavor",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Lowers the target’s HP to equal the user’s."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": 1,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 21,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "vespiquen",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/416/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "combee",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/415/"
+      }
+    },
+    "id": 214
+  }
+}

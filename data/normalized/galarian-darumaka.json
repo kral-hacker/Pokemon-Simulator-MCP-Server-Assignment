@@ -1,0 +1,23 @@
+{
+  "name": "Galarian Darumaka",
+  "number": 554,
+  "types": [
+    "Ice"
+  ],
+  "abilities": [
+    "['Hustle'",
+    "'Inner Focus']"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 45,
+    "special_attack": 15,
+    "special_defense": 45,
+    "speed": 50
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

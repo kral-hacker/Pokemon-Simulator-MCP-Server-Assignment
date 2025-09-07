@@ -1,0 +1,100 @@
+{
+  "name": "Celebi",
+  "number": 251,
+  "types": [
+    "Psychic",
+    "Grass"
+  ],
+  "abilities": [
+    "['Natural Cure']"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 100
+  },
+  "generation": 2,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Attack by two stages."
+    },
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "leech-seed",
+      "power": null,
+      "accuracy": 90,
+      "type": "grass",
+      "category": "status",
+      "effect": "Seeds the target, stealing HP from it every turn."
+    },
+    {
+      "name": "solar-beam",
+      "power": 120,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "thunder-wave",
+      "power": null,
+      "accuracy": 90,
+      "type": "electric",
+      "category": "status",
+      "effect": "Paralyzes the target."
+    },
+    {
+      "name": "toxic",
+      "power": null,
+      "accuracy": 90,
+      "type": "poison",
+      "category": "status",
+      "effect": "Badly poisons the target, inflicting more damage every turn."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "celebi",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/251/"
+      }
+    },
+    "id": 129
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mega Houndoom",
+  "number": 229,
+  "types": [
+    "Dark",
+    "Fire"
+  ],
+  "abilities": [
+    "['Solar Power']"
+  ],
+  "stats": {
+    "hp": 75,
+    "attack": 90,
+    "defense": 90,
+    "special_attack": 140,
+    "special_defense": 90,
+    "speed": 115
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sirfetch'd",
+  "number": 865,
+  "types": [
+    "Fighting"
+  ],
+  "abilities": [
+    "['Scrappy'",
+    "'Steadfast']"
+  ],
+  "stats": {
+    "hp": 62,
+    "attack": 135,
+    "defense": 95,
+    "special_attack": 68,
+    "special_defense": 82,
+    "speed": 65
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

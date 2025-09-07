@@ -1,0 +1,23 @@
+{
+  "name": "Mega Sceptile",
+  "number": 254,
+  "types": [
+    "Grass",
+    "Dragon"
+  ],
+  "abilities": [
+    "[]"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 75,
+    "special_attack": 145,
+    "special_defense": 85,
+    "speed": 145
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

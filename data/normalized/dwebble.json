@@ -1,0 +1,136 @@
+{
+  "name": "Dwebble",
+  "number": 557,
+  "types": [
+    "Bug",
+    "Rock"
+  ],
+  "abilities": [
+    "['Shell Armor'",
+    "'Sturdy'",
+    "'Weak Armor']"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 85,
+    "special_attack": 35,
+    "special_defense": 35,
+    "speed": 55
+  },
+  "generation": 5,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Attack by two stages."
+    },
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "sand-attack",
+      "power": null,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "status",
+      "effect": "Lowers the target’s accuracy by one stage."
+    },
+    {
+      "name": "counter",
+      "power": null,
+      "accuracy": 100,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "Inflicts twice the damage the user received from the last physical hit it took."
+    },
+    {
+      "name": "strength",
+      "power": 80,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "solar-beam",
+      "power": 120,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "earthquake",
+      "power": 100,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "physical",
+      "effect": "Inflicts regular damage and can hit Dig users."
+    },
+    {
+      "name": "dig",
+      "power": 80,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "physical",
+      "effect": "User digs underground, dodging all attacks, and hits next turn."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 34,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "crustle",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/558/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "dwebble",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/557/"
+      }
+    },
+    "id": 284
+  }
+}

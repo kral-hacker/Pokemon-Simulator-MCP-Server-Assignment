@@ -1,0 +1,100 @@
+{
+  "name": "Eternatus",
+  "number": 890,
+  "types": [
+    "Poison",
+    "Dragon"
+  ],
+  "abilities": [
+    "['Pressure']"
+  ],
+  "stats": {
+    "hp": 140,
+    "attack": 85,
+    "defense": 95,
+    "special_attack": 145,
+    "special_defense": 95,
+    "speed": 130
+  },
+  "generation": 8,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "fly",
+      "power": 90,
+      "accuracy": 95,
+      "type": "flying",
+      "category": "physical",
+      "effect": "User flies high into the air, dodging all attacks, and hits next turn."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "flamethrower",
+      "power": 90,
+      "accuracy": 100,
+      "type": "fire",
+      "category": "special",
+      "effect": "Has a 10% chance to burn the target."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "solar-beam",
+      "power": 120,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "fire-spin",
+      "power": 35,
+      "accuracy": 85,
+      "type": "fire",
+      "category": "special",
+      "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+    },
+    {
+      "name": "toxic",
+      "power": null,
+      "accuracy": 90,
+      "type": "poison",
+      "category": "status",
+      "effect": "Badly poisons the target, inflicting more damage every turn."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "eternatus",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/890/"
+      }
+    },
+    "id": 469
+  }
+}

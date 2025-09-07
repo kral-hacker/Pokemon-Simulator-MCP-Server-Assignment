@@ -1,0 +1,25 @@
+{
+  "name": "Alolan Geodude",
+  "number": 74,
+  "types": [
+    "Rock",
+    "Electric"
+  ],
+  "abilities": [
+    "['Galvanize'",
+    "'Magnet Pull'",
+    "'Sturdy']"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 80,
+    "defense": 100,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 20
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

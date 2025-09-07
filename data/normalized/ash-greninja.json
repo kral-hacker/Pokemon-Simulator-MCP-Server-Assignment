@@ -1,0 +1,23 @@
+{
+  "name": "Ash-Greninja",
+  "number": 658,
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "abilities": [
+    "['Battle Bond']"
+  ],
+  "stats": {
+    "hp": 72,
+    "attack": 145,
+    "defense": 67,
+    "special_attack": 153,
+    "special_defense": 71,
+    "speed": 132
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

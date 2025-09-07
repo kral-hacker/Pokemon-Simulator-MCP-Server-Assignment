@@ -1,0 +1,135 @@
+{
+  "name": "Thievul",
+  "number": 828,
+  "types": [
+    "Dark"
+  ],
+  "abilities": [
+    "['Run Away'",
+    "'Stakeout'",
+    "'Unburden']"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 58,
+    "defense": 58,
+    "special_attack": 87,
+    "special_defense": 92,
+    "speed": 90
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "tail-whip",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "dig",
+      "power": 80,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "physical",
+      "effect": "User digs underground, dodging all attacks, and hits next turn."
+    },
+    {
+      "name": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "type": "psychic",
+      "category": "special",
+      "effect": "Has a 10% chance to lower the target’s Special Defense by one stage."
+    },
+    {
+      "name": "agility",
+      "power": null,
+      "accuracy": null,
+      "type": "psychic",
+      "category": "status",
+      "effect": "Raises the user’s Speed by two stages."
+    },
+    {
+      "name": "quick-attack",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "screech",
+      "power": null,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by two stages."
+    },
+    {
+      "name": "swift",
+      "power": 60,
+      "accuracy": null,
+      "type": "normal",
+      "category": "special",
+      "effect": "Never misses."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 18,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "thievul",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/828/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "nickit",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/827/"
+      }
+    },
+    "id": 436
+  }
+}

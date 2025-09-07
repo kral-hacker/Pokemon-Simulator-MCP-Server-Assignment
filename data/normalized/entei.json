@@ -1,0 +1,100 @@
+{
+  "name": "Entei",
+  "number": 244,
+  "types": [
+    "Fire"
+  ],
+  "abilities": [
+    "['Inner Focus'",
+    "'Pressure']"
+  ],
+  "stats": {
+    "hp": 115,
+    "attack": 115,
+    "defense": 85,
+    "special_attack": 90,
+    "special_defense": 75,
+    "speed": 100
+  },
+  "generation": 2,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "stomp",
+      "power": 65,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "leer",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    },
+    {
+      "name": "bite",
+      "power": 60,
+      "accuracy": 100,
+      "type": "dark",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "entei",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/244/"
+      }
+    },
+    "id": 124
+  }
+}

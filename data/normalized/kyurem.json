@@ -1,0 +1,100 @@
+{
+  "name": "Kyurem",
+  "number": 646,
+  "types": [
+    "Dragon",
+    "Ice"
+  ],
+  "abilities": [
+    "['Pressure']"
+  ],
+  "stats": {
+    "hp": 125,
+    "attack": 130,
+    "defense": 90,
+    "special_attack": 130,
+    "special_defense": 90,
+    "speed": 95
+  },
+  "generation": 5,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "fly",
+      "power": 90,
+      "accuracy": 95,
+      "type": "flying",
+      "category": "physical",
+      "effect": "User flies high into the air, dodging all attacks, and hits next turn."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "roar",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+    },
+    {
+      "name": "ice-beam",
+      "power": 90,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "blizzard",
+      "power": 110,
+      "accuracy": 70,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "kyurem",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/646/"
+      }
+    },
+    "id": 333
+  }
+}

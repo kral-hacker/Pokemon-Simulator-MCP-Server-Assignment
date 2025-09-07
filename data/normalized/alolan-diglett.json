@@ -1,0 +1,25 @@
+{
+  "name": "Alolan Diglett",
+  "number": 50,
+  "types": [
+    "Ground",
+    "Steel"
+  ],
+  "abilities": [
+    "['Sand Force'",
+    "'Sand Veil'",
+    "'Tangling Hair']"
+  ],
+  "stats": {
+    "hp": 10,
+    "attack": 55,
+    "defense": 30,
+    "special_attack": 35,
+    "special_defense": 45,
+    "speed": 90
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

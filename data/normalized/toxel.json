@@ -1,0 +1,136 @@
+{
+  "name": "Toxel",
+  "number": 848,
+  "types": [
+    "Electric",
+    "Poison"
+  ],
+  "abilities": [
+    "['Klutz'",
+    "'Rattled'",
+    "'Static']"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 38,
+    "defense": 35,
+    "special_attack": 54,
+    "special_defense": 35,
+    "speed": 40
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "growl",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Attack by one stage."
+    },
+    {
+      "name": "acid",
+      "power": 40,
+      "accuracy": 100,
+      "type": "poison",
+      "category": "special",
+      "effect": "Has a 10% chance to lower the target’s Special Defense by one stage."
+    },
+    {
+      "name": "rest",
+      "power": null,
+      "accuracy": null,
+      "type": "psychic",
+      "category": "status",
+      "effect": "User sleeps for two turns, completely healing itself."
+    },
+    {
+      "name": "substitute",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Transfers 1/4 of the user’s max HP into a doll, protecting the user from further damage or status changes until it breaks."
+    },
+    {
+      "name": "snore",
+      "power": 50,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "special",
+      "effect": "Has a 30% chance to make the target flinch.  Only works if the user is sleeping."
+    },
+    {
+      "name": "flail",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts more damage when the user has less HP remaining, with a maximum of 200 power."
+    },
+    {
+      "name": "protect",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Prevents any moves from hitting the user this turn."
+    },
+    {
+      "name": "endure",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Prevents the user’s HP from lowering below 1 this turn."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 30,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "toxtricity",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/849/"
+          }
+        }
+      ],
+      "is_baby": true,
+      "species": {
+        "name": "toxel",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/848/"
+      }
+    },
+    "id": 446
+  }
+}

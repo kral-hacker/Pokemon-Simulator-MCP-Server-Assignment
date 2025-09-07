@@ -1,0 +1,99 @@
+{
+  "name": "Regidrago",
+  "number": 895,
+  "types": [
+    "Dragon"
+  ],
+  "abilities": [
+    "[\"Dragon's Maw\"]"
+  ],
+  "stats": {
+    "hp": 200,
+    "attack": 100,
+    "defense": 50,
+    "special_attack": 100,
+    "special_defense": 50,
+    "speed": 80
+  },
+  "generation": 8,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "vice-grip",
+      "power": 55,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "thrash",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Hits every turn for 2-3 turns, then confuses the user."
+    },
+    {
+      "name": "bite",
+      "power": 60,
+      "accuracy": 100,
+      "type": "dark",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "earthquake",
+      "power": 100,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "physical",
+      "effect": "Inflicts regular damage and can hit Dig users."
+    },
+    {
+      "name": "light-screen",
+      "power": null,
+      "accuracy": null,
+      "type": "psychic",
+      "category": "status",
+      "effect": "Reduces damage from special attacks by 50% for five turns."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "regidrago",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/895/"
+      }
+    },
+    "id": 473
+  }
+}

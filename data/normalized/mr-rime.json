@@ -1,0 +1,25 @@
+{
+  "name": "Mr. Rime",
+  "number": 866,
+  "types": [
+    "Ice",
+    "Psychic"
+  ],
+  "abilities": [
+    "['Ice Body'",
+    "'Screen Cleaner'",
+    "'Tangled Feet']"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 85,
+    "defense": 75,
+    "special_attack": 110,
+    "special_defense": 100,
+    "speed": 70
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

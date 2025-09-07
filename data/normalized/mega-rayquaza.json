@@ -1,0 +1,23 @@
+{
+  "name": "Mega Rayquaza",
+  "number": 384,
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "abilities": [
+    "['Delta Stream']"
+  ],
+  "stats": {
+    "hp": 105,
+    "attack": 180,
+    "defense": 100,
+    "special_attack": 180,
+    "special_defense": 100,
+    "speed": 115
+  },
+  "generation": 6,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

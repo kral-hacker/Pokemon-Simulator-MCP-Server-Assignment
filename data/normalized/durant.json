@@ -1,0 +1,102 @@
+{
+  "name": "Durant",
+  "number": 632,
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "abilities": [
+    "['Hustle'",
+    "'Swarm'",
+    "'Truant']"
+  ],
+  "stats": {
+    "hp": 58,
+    "attack": 109,
+    "defense": 112,
+    "special_attack": 48,
+    "special_defense": 48,
+    "speed": 109
+  },
+  "generation": 5,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "vice-grip",
+      "power": 55,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "guillotine",
+      "power": null,
+      "accuracy": 30,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Causes a one-hit KO."
+    },
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "sand-attack",
+      "power": null,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "status",
+      "effect": "Lowers the target’s accuracy by one stage."
+    },
+    {
+      "name": "bite",
+      "power": 60,
+      "accuracy": 100,
+      "type": "dark",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "strength",
+      "power": 80,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "thunder-wave",
+      "power": null,
+      "accuracy": 90,
+      "type": "electric",
+      "category": "status",
+      "effect": "Paralyzes the target."
+    },
+    {
+      "name": "dig",
+      "power": 80,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "physical",
+      "effect": "User digs underground, dodging all attacks, and hits next turn."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "durant",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/632/"
+      }
+    },
+    "id": 322
+  }
+}

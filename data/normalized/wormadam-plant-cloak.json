@@ -1,0 +1,24 @@
+{
+  "name": "Wormadam Plant Cloak",
+  "number": 413,
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "abilities": [
+    "['Anticipation'",
+    "'Overcoat']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 59,
+    "defense": 85,
+    "special_attack": 79,
+    "special_defense": 105,
+    "speed": 36
+  },
+  "generation": 4,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

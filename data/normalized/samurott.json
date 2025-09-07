@@ -1,0 +1,168 @@
+{
+  "name": "Samurott",
+  "number": 503,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    "['Shell Armor'",
+    "'Torrent']"
+  ],
+  "stats": {
+    "hp": 95,
+    "attack": 100,
+    "defense": 85,
+    "special_attack": 108,
+    "special_defense": 70,
+    "speed": 70
+  },
+  "generation": 5,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Attack by two stages."
+    },
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "tail-whip",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    },
+    {
+      "name": "water-gun",
+      "power": 40,
+      "accuracy": 100,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "hydro-pump",
+      "power": 110,
+      "accuracy": 80,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage with no additional effect."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 17,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [
+            {
+              "evolution_details": [
+                {
+                  "gender": null,
+                  "held_item": null,
+                  "item": null,
+                  "known_move": null,
+                  "known_move_type": null,
+                  "location": null,
+                  "min_affection": null,
+                  "min_beauty": null,
+                  "min_happiness": null,
+                  "min_level": 36,
+                  "needs_overworld_rain": false,
+                  "party_species": null,
+                  "party_type": null,
+                  "relative_physical_stats": null,
+                  "time_of_day": "",
+                  "trade_species": null,
+                  "trigger": {
+                    "name": "level-up",
+                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                  },
+                  "turn_upside_down": false
+                }
+              ],
+              "evolves_to": [],
+              "is_baby": false,
+              "species": {
+                "name": "samurott",
+                "url": "https://pokeapi.co/api/v2/pokemon-species/503/"
+              }
+            }
+          ],
+          "is_baby": false,
+          "species": {
+            "name": "dewott",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/502/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "oshawott",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/501/"
+      }
+    },
+    "id": 258
+  }
+}

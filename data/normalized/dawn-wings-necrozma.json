@@ -1,0 +1,23 @@
+{
+  "name": "Dawn Wings Necrozma",
+  "number": 800,
+  "types": [
+    "Psychic",
+    "Ghost"
+  ],
+  "abilities": [
+    "['Prism Armor']"
+  ],
+  "stats": {
+    "hp": 97,
+    "attack": 113,
+    "defense": 109,
+    "special_attack": 157,
+    "special_defense": 127,
+    "speed": 77
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

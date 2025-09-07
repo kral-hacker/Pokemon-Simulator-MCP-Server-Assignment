@@ -1,0 +1,176 @@
+{
+  "name": "Budew",
+  "number": 406,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "abilities": [
+    "['Leaf Guard'",
+    "'Natural Cure'",
+    "'Poison Point']"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "special_attack": 50,
+    "special_defense": 70,
+    "speed": 55
+  },
+  "generation": 4,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Attack by two stages."
+    },
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "poison-sting",
+      "power": 15,
+      "accuracy": 100,
+      "type": "poison",
+      "category": "physical",
+      "effect": "Has a 30% chance to poison the target."
+    },
+    {
+      "name": "pin-missile",
+      "power": 25,
+      "accuracy": 95,
+      "type": "bug",
+      "category": "physical",
+      "effect": "Hits 2-5 times in one turn."
+    },
+    {
+      "name": "absorb",
+      "power": 20,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Drains half the damage inflicted to heal the user."
+    },
+    {
+      "name": "mega-drain",
+      "power": 40,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Drains half the damage inflicted to heal the user."
+    },
+    {
+      "name": "growth",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Attack and Special Attack by one stage."
+    },
+    {
+      "name": "razor-leaf",
+      "power": 55,
+      "accuracy": 95,
+      "type": "grass",
+      "category": "physical",
+      "effect": "Has an increased chance for a critical hit."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": {
+      "name": "rose-incense",
+      "url": "https://pokeapi.co/api/v2/item/295/"
+    },
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": 160,
+              "min_level": null,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "day",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [
+            {
+              "evolution_details": [
+                {
+                  "gender": null,
+                  "held_item": null,
+                  "item": {
+                    "name": "shiny-stone",
+                    "url": "https://pokeapi.co/api/v2/item/107/"
+                  },
+                  "known_move": null,
+                  "known_move_type": null,
+                  "location": null,
+                  "min_affection": null,
+                  "min_beauty": null,
+                  "min_happiness": null,
+                  "min_level": null,
+                  "needs_overworld_rain": false,
+                  "party_species": null,
+                  "party_type": null,
+                  "relative_physical_stats": null,
+                  "time_of_day": "",
+                  "trade_species": null,
+                  "trigger": {
+                    "name": "use-item",
+                    "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+                  },
+                  "turn_upside_down": false
+                }
+              ],
+              "evolves_to": [],
+              "is_baby": false,
+              "species": {
+                "name": "roserade",
+                "url": "https://pokeapi.co/api/v2/pokemon-species/407/"
+              }
+            }
+          ],
+          "is_baby": false,
+          "species": {
+            "name": "roselia",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/315/"
+          }
+        }
+      ],
+      "is_baby": true,
+      "species": {
+        "name": "budew",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/406/"
+      }
+    },
+    "id": 158
+  }
+}

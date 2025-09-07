@@ -1,0 +1,100 @@
+{
+  "name": "Marshadow",
+  "number": 802,
+  "types": [
+    "Fighting",
+    "Ghost"
+  ],
+  "abilities": [
+    "['Technician']"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 125,
+    "defense": 80,
+    "special_attack": 90,
+    "special_defense": 90,
+    "speed": 125
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "power": 80,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "fire-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "fire",
+      "category": "physical",
+      "effect": "Has a 10% chance to burn the target."
+    },
+    {
+      "name": "ice-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "physical",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "thunder-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "physical",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "mega-kick",
+      "power": 120,
+      "accuracy": 75,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "jump-kick",
+      "power": 100,
+      "accuracy": 95,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "If the user misses, it takes half the damage it would have inflicted in recoil."
+    },
+    {
+      "name": "rolling-kick",
+      "power": 60,
+      "accuracy": 85,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "marshadow",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/802/"
+      }
+    },
+    "id": 423
+  }
+}

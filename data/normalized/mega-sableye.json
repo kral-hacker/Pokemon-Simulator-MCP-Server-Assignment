@@ -1,0 +1,23 @@
+{
+  "name": "Mega Sableye",
+  "number": 302,
+  "types": [
+    "Dark",
+    "Ghost"
+  ],
+  "abilities": [
+    "['Magic Bounce']"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 125,
+    "special_attack": 85,
+    "special_defense": 115,
+    "speed": 20
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

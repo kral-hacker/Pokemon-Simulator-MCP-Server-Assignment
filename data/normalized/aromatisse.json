@@ -1,0 +1,137 @@
+{
+  "name": "Aromatisse",
+  "number": 683,
+  "types": [
+    "Fairy"
+  ],
+  "abilities": [
+    "['Aroma Veil'",
+    "'Healer']"
+  ],
+  "stats": {
+    "hp": 101,
+    "attack": 72,
+    "defense": 72,
+    "special_attack": 99,
+    "special_defense": 89,
+    "speed": 29
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "thunderbolt",
+      "power": 90,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunder",
+      "power": 110,
+      "accuracy": 70,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "toxic",
+      "power": null,
+      "accuracy": 90,
+      "type": "poison",
+      "category": "status",
+      "effect": "Badly poisons the target, inflicting more damage every turn."
+    },
+    {
+      "name": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "type": "psychic",
+      "category": "special",
+      "effect": "Has a 10% chance to lower the target’s Special Defense by one stage."
+    },
+    {
+      "name": "double-team",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s evasion by one stage."
+    },
+    {
+      "name": "light-screen",
+      "power": null,
+      "accuracy": null,
+      "type": "psychic",
+      "category": "status",
+      "effect": "Reduces damage from special attacks by 50% for five turns."
+    },
+    {
+      "name": "reflect",
+      "power": null,
+      "accuracy": null,
+      "type": "psychic",
+      "category": "status",
+      "effect": "Reduces damage from physical attacks by half."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": {
+                "name": "sachet",
+                "url": "https://pokeapi.co/api/v2/item/687/"
+              },
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": null,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "trade",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/2/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "aromatisse",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/683/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "spritzee",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/682/"
+      }
+    },
+    "id": 350
+  }
+}

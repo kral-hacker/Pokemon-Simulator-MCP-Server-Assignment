@@ -1,0 +1,169 @@
+{
+  "name": "Luxio",
+  "number": 404,
+  "types": [
+    "Electric"
+  ],
+  "abilities": [
+    "['Guts'",
+    "'Intimidate'",
+    "'Rivalry']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 49,
+    "special_attack": 60,
+    "special_defense": 49,
+    "speed": 60
+  },
+  "generation": 4,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "leer",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    },
+    {
+      "name": "bite",
+      "power": 60,
+      "accuracy": 100,
+      "type": "dark",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "roar",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+    },
+    {
+      "name": "strength",
+      "power": 80,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 15,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [
+            {
+              "evolution_details": [
+                {
+                  "gender": null,
+                  "held_item": null,
+                  "item": null,
+                  "known_move": null,
+                  "known_move_type": null,
+                  "location": null,
+                  "min_affection": null,
+                  "min_beauty": null,
+                  "min_happiness": null,
+                  "min_level": 30,
+                  "needs_overworld_rain": false,
+                  "party_species": null,
+                  "party_type": null,
+                  "relative_physical_stats": null,
+                  "time_of_day": "",
+                  "trade_species": null,
+                  "trigger": {
+                    "name": "level-up",
+                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                  },
+                  "turn_upside_down": false
+                }
+              ],
+              "evolves_to": [],
+              "is_baby": false,
+              "species": {
+                "name": "luxray",
+                "url": "https://pokeapi.co/api/v2/pokemon-species/405/"
+              }
+            }
+          ],
+          "is_baby": false,
+          "species": {
+            "name": "luxio",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/404/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "shinx",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/403/"
+      }
+    },
+    "id": 209
+  }
+}

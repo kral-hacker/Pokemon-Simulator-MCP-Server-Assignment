@@ -1,0 +1,24 @@
+{
+  "name": "Tapu Bulu",
+  "number": 787,
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "abilities": [
+    "['Grassy Surge'",
+    "'Telepathy']"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 130,
+    "defense": 115,
+    "special_attack": 85,
+    "special_defense": 95,
+    "speed": 75
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

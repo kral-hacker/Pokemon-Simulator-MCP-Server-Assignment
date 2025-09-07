@@ -1,0 +1,22 @@
+{
+  "name": "Type: Null",
+  "number": 772,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    "['Battle Armor']"
+  ],
+  "stats": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 95,
+    "special_attack": 95,
+    "special_defense": 95,
+    "speed": 59
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

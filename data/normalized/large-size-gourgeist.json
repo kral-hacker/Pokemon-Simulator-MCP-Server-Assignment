@@ -1,0 +1,25 @@
+{
+  "name": "Large Size Gourgeist",
+  "number": 711,
+  "types": [
+    "Ghost",
+    "Grass"
+  ],
+  "abilities": [
+    "['Frisk'",
+    "'Insomnia'",
+    "'Pickup']"
+  ],
+  "stats": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 122,
+    "special_attack": 58,
+    "special_defense": 75,
+    "speed": 69
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

@@ -1,0 +1,100 @@
+{
+  "name": "Kecleon",
+  "number": 352,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    "['Color Change'",
+    "'Protean']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 70,
+    "special_attack": 60,
+    "special_defense": 120,
+    "speed": 40
+  },
+  "generation": 3,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "power": 80,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "fire-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "fire",
+      "category": "physical",
+      "effect": "Has a 10% chance to burn the target."
+    },
+    {
+      "name": "ice-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "physical",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "thunder-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "physical",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "scratch",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "bind",
+      "power": 15,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+    },
+    {
+      "name": "mega-kick",
+      "power": 120,
+      "accuracy": 75,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "kecleon",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/352/"
+      }
+    },
+    "id": 180
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Stunfisk",
+  "number": 618,
+  "types": [
+    "Ground",
+    "Electric"
+  ],
+  "abilities": [
+    "['Limber'",
+    "'Sand Veil'",
+    "'Static']"
+  ],
+  "stats": {
+    "hp": 109,
+    "attack": 66,
+    "defense": 84,
+    "special_attack": 81,
+    "special_defense": 99,
+    "speed": 32
+  },
+  "generation": 5,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "water-gun",
+      "power": 40,
+      "accuracy": 100,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "surf",
+      "power": 90,
+      "accuracy": 100,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Dive users."
+    },
+    {
+      "name": "thunder-shock",
+      "power": 40,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunderbolt",
+      "power": 90,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunder-wave",
+      "power": null,
+      "accuracy": 90,
+      "type": "electric",
+      "category": "status",
+      "effect": "Paralyzes the target."
+    },
+    {
+      "name": "thunder",
+      "power": 110,
+      "accuracy": 70,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "earthquake",
+      "power": 100,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "physical",
+      "effect": "Inflicts regular damage and can hit Dig users."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "stunfisk",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/618/"
+      }
+    },
+    "id": 313
+  }
+}

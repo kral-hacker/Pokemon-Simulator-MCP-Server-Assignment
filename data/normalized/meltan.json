@@ -1,0 +1,99 @@
+{
+  "name": "Meltan",
+  "number": 808,
+  "types": [
+    "Steel"
+  ],
+  "abilities": [
+    "['Magnet Pull']"
+  ],
+  "stats": {
+    "hp": 46,
+    "attack": 65,
+    "defense": 65,
+    "special_attack": 55,
+    "special_defense": 35,
+    "speed": 34
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "tail-whip",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    },
+    {
+      "name": "thunder-shock",
+      "power": 40,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunderbolt",
+      "power": 90,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunder-wave",
+      "power": null,
+      "accuracy": 90,
+      "type": "electric",
+      "category": "status",
+      "effect": "Paralyzes the target."
+    },
+    {
+      "name": "toxic",
+      "power": null,
+      "accuracy": 90,
+      "type": "poison",
+      "category": "status",
+      "effect": "Badly poisons the target, inflicting more damage every turn."
+    },
+    {
+      "name": "harden",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Defense by one stage."
+    },
+    {
+      "name": "acid-armor",
+      "power": null,
+      "accuracy": null,
+      "type": "poison",
+      "category": "status",
+      "effect": "Raises the user’s Defense by two stages."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "meltan",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/808/"
+      }
+    },
+    "id": 428
+  }
+}

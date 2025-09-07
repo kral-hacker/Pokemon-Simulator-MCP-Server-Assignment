@@ -1,0 +1,22 @@
+{
+  "name": "Mega Alakazam",
+  "number": 65,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    "['Trace']"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 50,
+    "defense": 65,
+    "special_attack": 175,
+    "special_defense": 95,
+    "speed": 150
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

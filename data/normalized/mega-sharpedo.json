@@ -1,0 +1,23 @@
+{
+  "name": "Mega Sharpedo",
+  "number": 319,
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "abilities": [
+    "['Strong Jaw']"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 140,
+    "defense": 70,
+    "special_attack": 110,
+    "special_defense": 65,
+    "speed": 105
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

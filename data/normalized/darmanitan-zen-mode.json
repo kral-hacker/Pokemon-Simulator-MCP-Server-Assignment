@@ -1,0 +1,23 @@
+{
+  "name": "Darmanitan Zen-Mode",
+  "number": 555,
+  "types": [
+    "Fire",
+    "Psychic"
+  ],
+  "abilities": [
+    "['Zen Mode']"
+  ],
+  "stats": {
+    "hp": 105,
+    "attack": 30,
+    "defense": 105,
+    "special_attack": 140,
+    "special_defense": 105,
+    "speed": 55
+  },
+  "generation": 5,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

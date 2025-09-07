@@ -1,0 +1,23 @@
+{
+  "name": "Mega Gengar",
+  "number": 94,
+  "types": [
+    "Ghost",
+    "Poison"
+  ],
+  "abilities": [
+    "['Shadow Tag']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 80,
+    "special_attack": 170,
+    "special_defense": 95,
+    "speed": 130
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

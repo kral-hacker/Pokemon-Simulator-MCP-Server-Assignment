@@ -1,0 +1,23 @@
+{
+  "name": "Mega Garchomp",
+  "number": 445,
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "abilities": [
+    "['Sand Force']"
+  ],
+  "stats": {
+    "hp": 108,
+    "attack": 170,
+    "defense": 115,
+    "special_attack": 120,
+    "special_defense": 95,
+    "speed": 92
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

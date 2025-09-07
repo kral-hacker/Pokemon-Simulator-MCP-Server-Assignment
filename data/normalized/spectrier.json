@@ -1,0 +1,99 @@
+{
+  "name": "Spectrier",
+  "number": 897,
+  "types": [
+    "Ghost"
+  ],
+  "abilities": [
+    "['Grim Neigh']"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 65,
+    "defense": 60,
+    "special_attack": 145,
+    "special_defense": 80,
+    "speed": 130
+  },
+  "generation": 8,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "stomp",
+      "power": 65,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "double-kick",
+      "power": 30,
+      "accuracy": 100,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "Hits twice in one turn."
+    },
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "thrash",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Hits every turn for 2-3 turns, then confuses the user."
+    },
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "tail-whip",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "spectrier",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/897/"
+      }
+    },
+    "id": 475
+  }
+}

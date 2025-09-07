@@ -1,0 +1,99 @@
+{
+  "name": "Necrozma",
+  "number": 800,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    "['Prism Armor']"
+  ],
+  "stats": {
+    "hp": 97,
+    "attack": 107,
+    "defense": 101,
+    "special_attack": 127,
+    "special_defense": 89,
+    "speed": 79
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Attack by two stages."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "solar-beam",
+      "power": 120,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "thunder-wave",
+      "power": null,
+      "accuracy": 90,
+      "type": "electric",
+      "category": "status",
+      "effect": "Paralyzes the target."
+    },
+    {
+      "name": "earthquake",
+      "power": 100,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "physical",
+      "effect": "Inflicts regular damage and can hit Dig users."
+    },
+    {
+      "name": "toxic",
+      "power": null,
+      "accuracy": 90,
+      "type": "poison",
+      "category": "status",
+      "effect": "Badly poisons the target, inflicting more damage every turn."
+    },
+    {
+      "name": "confusion",
+      "power": 50,
+      "accuracy": 100,
+      "type": "psychic",
+      "category": "special",
+      "effect": "Has a 10% chance to confuse the target."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "necrozma",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/800/"
+      }
+    },
+    "id": 421
+  }
+}

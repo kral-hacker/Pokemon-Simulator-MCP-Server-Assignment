@@ -1,0 +1,100 @@
+{
+  "name": "Pyukumuku",
+  "number": 771,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    "['Innards Out'",
+    "'Unaware']"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 60,
+    "defense": 130,
+    "special_attack": 30,
+    "special_defense": 130,
+    "speed": 5
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "counter",
+      "power": null,
+      "accuracy": 100,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "Inflicts twice the damage the user received from the last physical hit it took."
+    },
+    {
+      "name": "toxic",
+      "power": null,
+      "accuracy": 90,
+      "type": "poison",
+      "category": "status",
+      "effect": "Badly poisons the target, inflicting more damage every turn."
+    },
+    {
+      "name": "screech",
+      "power": null,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by two stages."
+    },
+    {
+      "name": "double-team",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s evasion by one stage."
+    },
+    {
+      "name": "recover",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Heals the user by half its max HP."
+    },
+    {
+      "name": "harden",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Defense by one stage."
+    },
+    {
+      "name": "light-screen",
+      "power": null,
+      "accuracy": null,
+      "type": "psychic",
+      "category": "status",
+      "effect": "Reduces damage from special attacks by 50% for five turns."
+    },
+    {
+      "name": "reflect",
+      "power": null,
+      "accuracy": null,
+      "type": "psychic",
+      "category": "status",
+      "effect": "Reduces damage from physical attacks by half."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "pyukumuku",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/771/"
+      }
+    },
+    "id": 398
+  }
+}

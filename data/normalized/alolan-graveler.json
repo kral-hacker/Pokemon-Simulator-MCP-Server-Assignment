@@ -1,0 +1,25 @@
+{
+  "name": "Alolan Graveler",
+  "number": 75,
+  "types": [
+    "Rock",
+    "Electric"
+  ],
+  "abilities": [
+    "['Galvanize'",
+    "'Magnet Pull'",
+    "'Sturdy']"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 95,
+    "defense": 115,
+    "special_attack": 45,
+    "special_defense": 45,
+    "speed": 35
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

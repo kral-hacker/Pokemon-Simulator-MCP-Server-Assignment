@@ -1,0 +1,23 @@
+{
+  "name": "Minior Core Form",
+  "number": 774,
+  "types": [
+    "Rock",
+    "Flying"
+  ],
+  "abilities": [
+    "['Shields Down']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 100,
+    "defense": 60,
+    "special_attack": 100,
+    "special_defense": 60,
+    "speed": 120
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

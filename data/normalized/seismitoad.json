@@ -1,0 +1,170 @@
+{
+  "name": "Seismitoad",
+  "number": 537,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "abilities": [
+    "['Poison Touch'",
+    "'Swift Swim'",
+    "'Water Absorb']"
+  ],
+  "stats": {
+    "hp": 105,
+    "attack": 95,
+    "defense": 75,
+    "special_attack": 85,
+    "special_defense": 75,
+    "speed": 74
+  },
+  "generation": 5,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "power": 80,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "ice-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "physical",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "mega-kick",
+      "power": 120,
+      "accuracy": 75,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "growl",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Attack by one stage."
+    },
+    {
+      "name": "supersonic",
+      "power": null,
+      "accuracy": 55,
+      "type": "normal",
+      "category": "status",
+      "effect": "Confuses the target."
+    },
+    {
+      "name": "acid",
+      "power": 40,
+      "accuracy": 100,
+      "type": "poison",
+      "category": "special",
+      "effect": "Has a 10% chance to lower the target’s Special Defense by one stage."
+    },
+    {
+      "name": "hydro-pump",
+      "power": 110,
+      "accuracy": 80,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "surf",
+      "power": 90,
+      "accuracy": 100,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Dive users."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 25,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [
+            {
+              "evolution_details": [
+                {
+                  "gender": null,
+                  "held_item": null,
+                  "item": null,
+                  "known_move": null,
+                  "known_move_type": null,
+                  "location": null,
+                  "min_affection": null,
+                  "min_beauty": null,
+                  "min_happiness": null,
+                  "min_level": 36,
+                  "needs_overworld_rain": false,
+                  "party_species": null,
+                  "party_type": null,
+                  "relative_physical_stats": null,
+                  "time_of_day": "",
+                  "trade_species": null,
+                  "trigger": {
+                    "name": "level-up",
+                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                  },
+                  "turn_upside_down": false
+                }
+              ],
+              "evolves_to": [],
+              "is_baby": false,
+              "species": {
+                "name": "seismitoad",
+                "url": "https://pokeapi.co/api/v2/pokemon-species/537/"
+              }
+            }
+          ],
+          "is_baby": false,
+          "species": {
+            "name": "palpitoad",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/536/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "tympole",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/535/"
+      }
+    },
+    "id": 273
+  }
+}

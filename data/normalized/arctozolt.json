@@ -1,0 +1,102 @@
+{
+  "name": "Arctozolt",
+  "number": 881,
+  "types": [
+    "Electric",
+    "Ice"
+  ],
+  "abilities": [
+    "['Slush Rush'",
+    "'Static'",
+    "'Volt Absorb']"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "special_attack": 90,
+    "special_defense": 80,
+    "speed": 55
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "power": 80,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "thunder-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "physical",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "slam",
+      "power": 80,
+      "accuracy": 75,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "mega-kick",
+      "power": 120,
+      "accuracy": 75,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "hydro-pump",
+      "power": 110,
+      "accuracy": 80,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "surf",
+      "power": 90,
+      "accuracy": 100,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Dive users."
+    },
+    {
+      "name": "ice-beam",
+      "power": 90,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "arctozolt",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/881/"
+      }
+    },
+    "id": 462
+  }
+}

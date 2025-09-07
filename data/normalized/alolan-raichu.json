@@ -1,0 +1,23 @@
+{
+  "name": "Alolan Raichu",
+  "number": 26,
+  "types": [
+    "Electric",
+    "Psychic"
+  ],
+  "abilities": [
+    "['Surge Surfer']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 50,
+    "special_attack": 95,
+    "special_defense": 85,
+    "speed": 110
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

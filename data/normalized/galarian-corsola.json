@@ -1,0 +1,23 @@
+{
+  "name": "Galarian Corsola",
+  "number": 222,
+  "types": [
+    "Ghost"
+  ],
+  "abilities": [
+    "['Cursed Body'",
+    "'Weak Armor']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 100,
+    "special_attack": 65,
+    "special_defense": 100,
+    "speed": 30
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

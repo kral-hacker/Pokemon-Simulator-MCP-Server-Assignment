@@ -1,0 +1,23 @@
+{
+  "name": "Mega Tyranitar",
+  "number": 248,
+  "types": [
+    "Rock",
+    "Dark"
+  ],
+  "abilities": [
+    "['Sand Stream']"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 164,
+    "defense": 150,
+    "special_attack": 95,
+    "special_defense": 120,
+    "speed": 71
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

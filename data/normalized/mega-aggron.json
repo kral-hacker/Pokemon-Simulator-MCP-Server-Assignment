@@ -1,0 +1,22 @@
+{
+  "name": "Mega Aggron",
+  "number": 306,
+  "types": [
+    "Steel"
+  ],
+  "abilities": [
+    "['Filter']"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 140,
+    "defense": 230,
+    "special_attack": 60,
+    "special_defense": 80,
+    "speed": 50
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

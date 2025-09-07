@@ -1,0 +1,23 @@
+{
+  "name": "Flabébé",
+  "number": 669,
+  "types": [
+    "Fairy"
+  ],
+  "abilities": [
+    "['Flower Veil'",
+    "'Symbiosis']"
+  ],
+  "stats": {
+    "hp": 44,
+    "attack": 38,
+    "defense": 39,
+    "special_attack": 61,
+    "special_defense": 79,
+    "speed": 42
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

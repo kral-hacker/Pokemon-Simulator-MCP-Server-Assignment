@@ -1,0 +1,23 @@
+{
+  "name": "Mega Venusaur",
+  "number": 3,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "abilities": [
+    "['Thick Fat']"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 123,
+    "special_attack": 122,
+    "special_defense": 120,
+    "speed": 80
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

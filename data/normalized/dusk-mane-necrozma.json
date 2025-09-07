@@ -1,0 +1,23 @@
+{
+  "name": "Dusk Mane Necrozma",
+  "number": 800,
+  "types": [
+    "Psychic",
+    "Steel"
+  ],
+  "abilities": [
+    "['Prism Armor']"
+  ],
+  "stats": {
+    "hp": 97,
+    "attack": 157,
+    "defense": 127,
+    "special_attack": 113,
+    "special_defense": 109,
+    "speed": 77
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

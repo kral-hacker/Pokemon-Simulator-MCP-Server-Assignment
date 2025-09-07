@@ -1,0 +1,22 @@
+{
+  "name": "Mega Manectric",
+  "number": 310,
+  "types": [
+    "Electric"
+  ],
+  "abilities": [
+    "['Intimidate']"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 80,
+    "special_attack": 135,
+    "special_defense": 80,
+    "speed": 135
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

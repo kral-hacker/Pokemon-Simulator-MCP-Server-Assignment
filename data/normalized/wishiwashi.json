@@ -1,0 +1,34 @@
+{
+  "name": "Wishiwashi",
+  "number": 746,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    "['Schooling']"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 20,
+    "defense": 20,
+    "special_attack": 25,
+    "special_defense": 25,
+    "speed": 40
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "wishiwashi",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/746/"
+      }
+    },
+    "id": 384
+  }
+}

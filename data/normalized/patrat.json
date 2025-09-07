@@ -1,0 +1,135 @@
+{
+  "name": "Patrat",
+  "number": 504,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    "['Analytic'",
+    "'Keen Eye'",
+    "'Run Away']"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 39,
+    "special_attack": 35,
+    "special_defense": 39,
+    "speed": 42
+  },
+  "generation": 5,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Attack by two stages."
+    },
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "slam",
+      "power": 80,
+      "accuracy": 75,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "sand-attack",
+      "power": null,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "status",
+      "effect": "Lowers the target’s accuracy by one stage."
+    },
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "leer",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    },
+    {
+      "name": "bite",
+      "power": 60,
+      "accuracy": 100,
+      "type": "dark",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "low-kick",
+      "power": null,
+      "accuracy": 100,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "Inflicts more damage to heavier targets, with a maximum of 120 power."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 20,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "watchog",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/505/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "patrat",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/504/"
+      }
+    },
+    "id": 259
+  }
+}

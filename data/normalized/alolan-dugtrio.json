@@ -1,0 +1,25 @@
+{
+  "name": "Alolan Dugtrio",
+  "number": 51,
+  "types": [
+    "Ground",
+    "Steel"
+  ],
+  "abilities": [
+    "['Sand Force'",
+    "'Sand Veil'",
+    "'Tangling Hair']"
+  ],
+  "stats": {
+    "hp": 35,
+    "attack": 100,
+    "defense": 60,
+    "special_attack": 50,
+    "special_defense": 70,
+    "speed": 110
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

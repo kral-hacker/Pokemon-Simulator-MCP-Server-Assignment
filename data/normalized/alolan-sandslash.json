@@ -1,0 +1,24 @@
+{
+  "name": "Alolan Sandslash",
+  "number": 28,
+  "types": [
+    "Ice",
+    "Steel"
+  ],
+  "abilities": [
+    "['Slush Rush'",
+    "'Snow Cloak']"
+  ],
+  "stats": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 120,
+    "special_attack": 25,
+    "special_defense": 65,
+    "speed": 65
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

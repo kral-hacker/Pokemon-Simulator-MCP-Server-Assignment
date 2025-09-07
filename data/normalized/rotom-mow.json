@@ -1,0 +1,88 @@
+{
+  "name": "Rotom-Mow",
+  "number": 479,
+  "types": [
+    "Electric",
+    "Grass"
+  ],
+  "abilities": [
+    "['Levitate']"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "special_attack": 105,
+    "special_defense": 107,
+    "speed": 86
+  },
+  "generation": 4,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "thunder-shock",
+      "power": 40,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunderbolt",
+      "power": 90,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunder-wave",
+      "power": null,
+      "accuracy": 90,
+      "type": "electric",
+      "category": "status",
+      "effect": "Paralyzes the target."
+    },
+    {
+      "name": "thunder",
+      "power": 110,
+      "accuracy": 70,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "toxic",
+      "power": null,
+      "accuracy": 90,
+      "type": "poison",
+      "category": "status",
+      "effect": "Badly poisons the target, inflicting more damage every turn."
+    },
+    {
+      "name": "night-shade",
+      "power": null,
+      "accuracy": 100,
+      "type": "ghost",
+      "category": "special",
+      "effect": "Inflicts damage equal to the user’s level."
+    },
+    {
+      "name": "double-team",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s evasion by one stage."
+    },
+    {
+      "name": "confuse-ray",
+      "power": null,
+      "accuracy": 100,
+      "type": "ghost",
+      "category": "status",
+      "effect": "Confuses the target."
+    }
+  ],
+  "evolution_chain": null
+}

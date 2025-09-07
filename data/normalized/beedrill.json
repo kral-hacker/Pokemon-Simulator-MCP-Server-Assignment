@@ -1,0 +1,169 @@
+{
+  "name": "Beedrill",
+  "number": 15,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "abilities": [
+    "['Sniper'",
+    "'Swarm']"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 40,
+    "special_attack": 45,
+    "special_defense": 80,
+    "speed": 75
+  },
+  "generation": 1,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Attack by two stages."
+    },
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "fury-attack",
+      "power": 15,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Hits 2-5 times in one turn."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "poison-sting",
+      "power": 15,
+      "accuracy": 100,
+      "type": "poison",
+      "category": "physical",
+      "effect": "Has a 30% chance to poison the target."
+    },
+    {
+      "name": "twineedle",
+      "power": 25,
+      "accuracy": 100,
+      "type": "bug",
+      "category": "physical",
+      "effect": "Hits twice in the same turn.  Has a 20% chance to poison the target."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 7,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [
+            {
+              "evolution_details": [
+                {
+                  "gender": null,
+                  "held_item": null,
+                  "item": null,
+                  "known_move": null,
+                  "known_move_type": null,
+                  "location": null,
+                  "min_affection": null,
+                  "min_beauty": null,
+                  "min_happiness": null,
+                  "min_level": 10,
+                  "needs_overworld_rain": false,
+                  "party_species": null,
+                  "party_type": null,
+                  "relative_physical_stats": null,
+                  "time_of_day": "",
+                  "trade_species": null,
+                  "trigger": {
+                    "name": "level-up",
+                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                  },
+                  "turn_upside_down": false
+                }
+              ],
+              "evolves_to": [],
+              "is_baby": false,
+              "species": {
+                "name": "beedrill",
+                "url": "https://pokeapi.co/api/v2/pokemon-species/15/"
+              }
+            }
+          ],
+          "is_baby": false,
+          "species": {
+            "name": "kakuna",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/14/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "weedle",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/13/"
+      }
+    },
+    "id": 5
+  }
+}

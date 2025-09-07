@@ -1,0 +1,99 @@
+{
+  "name": "Regieleki",
+  "number": 894,
+  "types": [
+    "Electric"
+  ],
+  "abilities": [
+    "['Transistor']"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 50,
+    "special_attack": 100,
+    "special_defense": 50,
+    "speed": 200
+  },
+  "generation": 8,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "thrash",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Hits every turn for 2-3 turns, then confuses the user."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "thunder-shock",
+      "power": 40,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunderbolt",
+      "power": 90,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunder-wave",
+      "power": null,
+      "accuracy": 90,
+      "type": "electric",
+      "category": "status",
+      "effect": "Paralyzes the target."
+    },
+    {
+      "name": "thunder",
+      "power": 110,
+      "accuracy": 70,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 30% chance to paralyze the target."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "regieleki",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/894/"
+      }
+    },
+    "id": 472
+  }
+}

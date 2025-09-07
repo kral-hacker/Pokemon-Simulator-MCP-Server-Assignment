@@ -1,0 +1,36 @@
+{
+  "name": "Thundurus",
+  "number": 642,
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "abilities": [
+    "['Defiant'",
+    "'Prankster']"
+  ],
+  "stats": {
+    "hp": 79,
+    "attack": 115,
+    "defense": 70,
+    "special_attack": 125,
+    "special_defense": 80,
+    "speed": 111
+  },
+  "generation": 5,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "thundurus",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/642/"
+      }
+    },
+    "id": 329
+  }
+}

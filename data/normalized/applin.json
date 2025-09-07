@@ -1,0 +1,194 @@
+{
+  "name": "Applin",
+  "number": 840,
+  "types": [
+    "Grass",
+    "Dragon"
+  ],
+  "abilities": [
+    "['Bulletproof'",
+    "'Gluttony'",
+    "'Ripen']"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 80,
+    "special_attack": 40,
+    "special_defense": 40,
+    "speed": 20
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "withdraw",
+      "power": null,
+      "accuracy": null,
+      "type": "water",
+      "category": "status",
+      "effect": "Raises the user’s Defense by one stage."
+    },
+    {
+      "name": "defense-curl",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises user’s Defense by one stage."
+    },
+    {
+      "name": "rollout",
+      "power": 30,
+      "accuracy": 90,
+      "type": "rock",
+      "category": "physical",
+      "effect": "Power doubles every turn this move is used in succession after the first, resetting after five turns."
+    },
+    {
+      "name": "attract",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user."
+    },
+    {
+      "name": "recycle",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "User recovers the item it last used up."
+    },
+    {
+      "name": "astonish",
+      "power": 30,
+      "accuracy": 100,
+      "type": "ghost",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "sucker-punch",
+      "power": 70,
+      "accuracy": 100,
+      "type": "dark",
+      "category": "physical",
+      "effect": "Only works if the target is about to use a damaging move."
+    },
+    {
+      "name": "draco-meteor",
+      "power": 130,
+      "accuracy": 90,
+      "type": "dragon",
+      "category": "special",
+      "effect": "Lowers the user’s Special Attack by two stages after inflicting damage."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": {
+                "name": "tart-apple",
+                "url": "https://pokeapi.co/api/v2/item/1175/"
+              },
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": null,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "use-item",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "flapple",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/841/"
+          }
+        },
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": {
+                "name": "sweet-apple",
+                "url": "https://pokeapi.co/api/v2/item/1174/"
+              },
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": null,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "use-item",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "appletun",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/842/"
+          }
+        },
+        {
+          "evolution_details": [],
+          "evolves_to": [
+            {
+              "evolution_details": [],
+              "evolves_to": [],
+              "is_baby": false,
+              "species": {
+                "name": "hydrapple",
+                "url": "https://pokeapi.co/api/v2/pokemon-species/1019/"
+              }
+            }
+          ],
+          "is_baby": false,
+          "species": {
+            "name": "dipplin",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/1011/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "applin",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/840/"
+      }
+    },
+    "id": 442
+  }
+}

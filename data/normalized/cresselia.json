@@ -1,0 +1,99 @@
+{
+  "name": "Cresselia",
+  "number": 488,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    "['Levitate']"
+  ],
+  "stats": {
+    "hp": 120,
+    "attack": 70,
+    "defense": 120,
+    "special_attack": 75,
+    "special_defense": 130,
+    "speed": 85
+  },
+  "generation": 4,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "mist",
+      "power": null,
+      "accuracy": null,
+      "type": "ice",
+      "category": "status",
+      "effect": "Protects the user’s stats from being changed by enemy moves."
+    },
+    {
+      "name": "ice-beam",
+      "power": 90,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "psybeam",
+      "power": 65,
+      "accuracy": 100,
+      "type": "psychic",
+      "category": "special",
+      "effect": "Has a 10% chance to confuse the target."
+    },
+    {
+      "name": "aurora-beam",
+      "power": 65,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to lower the target’s Attack by one stage."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "solar-beam",
+      "power": 120,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "cresselia",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/488/"
+      }
+    },
+    "id": 249
+  }
+}

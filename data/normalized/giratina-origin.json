@@ -1,0 +1,88 @@
+{
+  "name": "Giratina-Origin",
+  "number": 487,
+  "types": [
+    "Dragon",
+    "Ghost"
+  ],
+  "abilities": [
+    "['Pressure']"
+  ],
+  "stats": {
+    "hp": 150,
+    "attack": 120,
+    "defense": 100,
+    "special_attack": 120,
+    "special_defense": 100,
+    "speed": 90
+  },
+  "generation": 4,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "fly",
+      "power": 90,
+      "accuracy": 95,
+      "type": "flying",
+      "category": "physical",
+      "effect": "User flies high into the air, dodging all attacks, and hits next turn."
+    },
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "roar",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "strength",
+      "power": 80,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    }
+  ],
+  "evolution_chain": null
+}

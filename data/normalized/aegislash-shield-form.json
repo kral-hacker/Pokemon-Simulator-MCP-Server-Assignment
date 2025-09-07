@@ -1,0 +1,23 @@
+{
+  "name": "Aegislash Shield Form",
+  "number": 681,
+  "types": [
+    "Steel",
+    "Ghost"
+  ],
+  "abilities": [
+    "['Stance Change']"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 140,
+    "special_attack": 70,
+    "special_defense": 140,
+    "speed": 60
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

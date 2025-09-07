@@ -1,0 +1,101 @@
+{
+  "name": "Throh",
+  "number": 538,
+  "types": [
+    "Fighting"
+  ],
+  "abilities": [
+    "['Guts'",
+    "'Inner Focus'",
+    "'Mold Breaker']"
+  ],
+  "stats": {
+    "hp": 120,
+    "attack": 100,
+    "defense": 85,
+    "special_attack": 30,
+    "special_defense": 85,
+    "speed": 45
+  },
+  "generation": 5,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "power": 80,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "fire-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "fire",
+      "category": "physical",
+      "effect": "Has a 10% chance to burn the target."
+    },
+    {
+      "name": "ice-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "physical",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "thunder-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "physical",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "bind",
+      "power": 15,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+    },
+    {
+      "name": "mega-kick",
+      "power": 120,
+      "accuracy": 75,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "leer",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "throh",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/538/"
+      }
+    },
+    "id": 274
+  }
+}

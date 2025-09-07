@@ -1,0 +1,35 @@
+{
+  "name": "Morpeko",
+  "number": 877,
+  "types": [
+    "Electric",
+    "Dark"
+  ],
+  "abilities": [
+    "['Hunger Switch']"
+  ],
+  "stats": {
+    "hp": 58,
+    "attack": 95,
+    "defense": 58,
+    "special_attack": 70,
+    "special_defense": 58,
+    "speed": 97
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "morpeko",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/877/"
+      }
+    },
+    "id": 459
+  }
+}

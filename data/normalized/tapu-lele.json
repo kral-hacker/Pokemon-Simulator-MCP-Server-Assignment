@@ -1,0 +1,24 @@
+{
+  "name": "Tapu Lele",
+  "number": 786,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "abilities": [
+    "['Psychic Surge'",
+    "'Telepathy']"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 75,
+    "special_attack": 130,
+    "special_defense": 115,
+    "speed": 95
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

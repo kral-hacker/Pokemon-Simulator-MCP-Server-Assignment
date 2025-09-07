@@ -1,0 +1,36 @@
+{
+  "name": "Landorus",
+  "number": 645,
+  "types": [
+    "Ground",
+    "Flying"
+  ],
+  "abilities": [
+    "['Sand Force'",
+    "'Sheer Force']"
+  ],
+  "stats": {
+    "hp": 89,
+    "attack": 125,
+    "defense": 90,
+    "special_attack": 115,
+    "special_defense": 80,
+    "speed": 101
+  },
+  "generation": 5,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "landorus",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/645/"
+      }
+    },
+    "id": 332
+  }
+}

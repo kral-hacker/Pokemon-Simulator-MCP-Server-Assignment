@@ -1,0 +1,135 @@
+{
+  "name": "Zebstrika",
+  "number": 523,
+  "types": [
+    "Electric"
+  ],
+  "abilities": [
+    "['Lightning Rod'",
+    "'Motor Drive'",
+    "'Sap Sipper']"
+  ],
+  "stats": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 63,
+    "special_attack": 80,
+    "special_defense": 63,
+    "speed": 116
+  },
+  "generation": 5,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "stomp",
+      "power": 65,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "double-kick",
+      "power": 30,
+      "accuracy": 100,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "Hits twice in one turn."
+    },
+    {
+      "name": "sand-attack",
+      "power": null,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "status",
+      "effect": "Lowers the target’s accuracy by one stage."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "thrash",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Hits every turn for 2-3 turns, then confuses the user."
+    },
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "tail-whip",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 27,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "zebstrika",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/523/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "blitzle",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/522/"
+      }
+    },
+    "id": 267
+  }
+}

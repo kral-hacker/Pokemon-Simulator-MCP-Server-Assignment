@@ -1,0 +1,100 @@
+{
+  "name": "Rotom",
+  "number": 479,
+  "types": [
+    "Electric",
+    "Ghost"
+  ],
+  "abilities": [
+    "['Levitate']"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 77,
+    "special_attack": 95,
+    "special_defense": 77,
+    "speed": 91
+  },
+  "generation": 4,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "thunder-shock",
+      "power": 40,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunderbolt",
+      "power": 90,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunder-wave",
+      "power": null,
+      "accuracy": 90,
+      "type": "electric",
+      "category": "status",
+      "effect": "Paralyzes the target."
+    },
+    {
+      "name": "thunder",
+      "power": 110,
+      "accuracy": 70,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "toxic",
+      "power": null,
+      "accuracy": 90,
+      "type": "poison",
+      "category": "status",
+      "effect": "Badly poisons the target, inflicting more damage every turn."
+    },
+    {
+      "name": "night-shade",
+      "power": null,
+      "accuracy": 100,
+      "type": "ghost",
+      "category": "special",
+      "effect": "Inflicts damage equal to the user’s level."
+    },
+    {
+      "name": "double-team",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s evasion by one stage."
+    },
+    {
+      "name": "confuse-ray",
+      "power": null,
+      "accuracy": 100,
+      "type": "ghost",
+      "category": "status",
+      "effect": "Confuses the target."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "rotom",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/479/"
+      }
+    },
+    "id": 240
+  }
+}

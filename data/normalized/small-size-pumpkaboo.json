@@ -1,0 +1,25 @@
+{
+  "name": "Small Size Pumpkaboo",
+  "number": 710,
+  "types": [
+    "Ghost",
+    "Grass"
+  ],
+  "abilities": [
+    "['Frisk'",
+    "'Insomnia'",
+    "'Pickup']"
+  ],
+  "stats": {
+    "hp": 44,
+    "attack": 66,
+    "defense": 70,
+    "special_attack": 44,
+    "special_defense": 55,
+    "speed": 56
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

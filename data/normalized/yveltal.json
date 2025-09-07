@@ -1,0 +1,100 @@
+{
+  "name": "Yveltal",
+  "number": 717,
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "abilities": [
+    "['Dark Aura']"
+  ],
+  "stats": {
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "special_attack": 131,
+    "special_defense": 98,
+    "speed": 99
+  },
+  "generation": 6,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "razor-wind",
+      "power": 80,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "gust",
+      "power": 40,
+      "accuracy": 100,
+      "type": "flying",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Pokémon in the air."
+    },
+    {
+      "name": "fly",
+      "power": 90,
+      "accuracy": 95,
+      "type": "flying",
+      "category": "physical",
+      "effect": "User flies high into the air, dodging all attacks, and hits next turn."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "disable",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Disables the target’s last used move for 1-8 turns."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "toxic",
+      "power": null,
+      "accuracy": 90,
+      "type": "poison",
+      "category": "status",
+      "effect": "Badly poisons the target, inflicting more damage every turn."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "yveltal",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/717/"
+      }
+    },
+    "id": 369
+  }
+}

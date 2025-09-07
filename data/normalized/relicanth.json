@@ -1,0 +1,102 @@
+{
+  "name": "Relicanth",
+  "number": 369,
+  "types": [
+    "Water",
+    "Rock"
+  ],
+  "abilities": [
+    "['Rock Head'",
+    "'Sturdy'",
+    "'Swift Swim']"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 90,
+    "defense": 130,
+    "special_attack": 45,
+    "special_defense": 65,
+    "speed": 55
+  },
+  "generation": 3,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "water-gun",
+      "power": 40,
+      "accuracy": 100,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "hydro-pump",
+      "power": 110,
+      "accuracy": 80,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "surf",
+      "power": 90,
+      "accuracy": 100,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Dive users."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "relicanth",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/369/"
+      }
+    },
+    "id": 189
+  }
+}

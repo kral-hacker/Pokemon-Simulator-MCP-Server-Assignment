@@ -1,0 +1,25 @@
+{
+  "name": "Galarian Rapidash",
+  "number": 78,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "abilities": [
+    "['Anticipation'",
+    "'Pastel Veil'",
+    "'Run Away']"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "special_attack": 80,
+    "special_defense": 80,
+    "speed": 105
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Alcremie",
+  "number": 869,
+  "types": [
+    "Fairy"
+  ],
+  "abilities": [
+    "['Aroma Veil'",
+    "'Sweet Veil']"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 75,
+    "special_attack": 110,
+    "special_defense": 121,
+    "speed": 64
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "solar-beam",
+      "power": 120,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "type": "psychic",
+      "category": "special",
+      "effect": "Has a 10% chance to lower the target’s Special Defense by one stage."
+    },
+    {
+      "name": "recover",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Heals the user by half its max HP."
+    },
+    {
+      "name": "light-screen",
+      "power": null,
+      "accuracy": null,
+      "type": "psychic",
+      "category": "status",
+      "effect": "Reduces damage from special attacks by 50% for five turns."
+    },
+    {
+      "name": "metronome",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Randomly selects and uses any move in the game."
+    },
+    {
+      "name": "acid-armor",
+      "power": null,
+      "accuracy": null,
+      "type": "poison",
+      "category": "status",
+      "effect": "Raises the user’s Defense by two stages."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": null,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "spin",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/5/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "alcremie",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/869/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "milcery",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/868/"
+      }
+    },
+    "id": 452
+  }
+}

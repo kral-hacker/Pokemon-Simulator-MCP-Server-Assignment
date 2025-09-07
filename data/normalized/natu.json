@@ -1,0 +1,136 @@
+{
+  "name": "Natu",
+  "number": 177,
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "abilities": [
+    "['Early Bird'",
+    "'Magic Bounce'",
+    "'Synchronize']"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 45,
+    "special_attack": 70,
+    "special_defense": 45,
+    "speed": 70
+  },
+  "generation": 2,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "leer",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    },
+    {
+      "name": "peck",
+      "power": 35,
+      "accuracy": 100,
+      "type": "flying",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "drill-peck",
+      "power": 80,
+      "accuracy": 100,
+      "type": "flying",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "solar-beam",
+      "power": 120,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "thunder-wave",
+      "power": null,
+      "accuracy": 90,
+      "type": "electric",
+      "category": "status",
+      "effect": "Paralyzes the target."
+    },
+    {
+      "name": "toxic",
+      "power": null,
+      "accuracy": 90,
+      "type": "poison",
+      "category": "status",
+      "effect": "Badly poisons the target, inflicting more damage every turn."
+    },
+    {
+      "name": "psychic",
+      "power": 90,
+      "accuracy": 100,
+      "type": "psychic",
+      "category": "special",
+      "effect": "Has a 10% chance to lower the target’s Special Defense by one stage."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 25,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "xatu",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/178/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "natu",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/177/"
+      }
+    },
+    "id": 88
+  }
+}

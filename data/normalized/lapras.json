@@ -1,0 +1,102 @@
+{
+  "name": "Lapras",
+  "number": 131,
+  "types": [
+    "Water",
+    "Ice"
+  ],
+  "abilities": [
+    "['Hydration'",
+    "'Shell Armor'",
+    "'Water Absorb']"
+  ],
+  "stats": {
+    "hp": 130,
+    "attack": 85,
+    "defense": 80,
+    "special_attack": 85,
+    "special_defense": 95,
+    "speed": 60
+  },
+  "generation": 1,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "horn-drill",
+      "power": null,
+      "accuracy": 30,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Causes a one-hit KO."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "growl",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Attack by one stage."
+    },
+    {
+      "name": "roar",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+    },
+    {
+      "name": "sing",
+      "power": null,
+      "accuracy": 55,
+      "type": "normal",
+      "category": "status",
+      "effect": "Puts the target to sleep."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "lapras",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/131/"
+      }
+    },
+    "id": 65
+  }
+}

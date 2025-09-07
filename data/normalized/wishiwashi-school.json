@@ -1,0 +1,22 @@
+{
+  "name": "Wishiwashi School",
+  "number": 746,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    "['Schooling']"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 140,
+    "defense": 130,
+    "special_attack": 140,
+    "special_defense": 135,
+    "speed": 30
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

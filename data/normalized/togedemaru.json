@@ -1,0 +1,102 @@
+{
+  "name": "Togedemaru",
+  "number": 777,
+  "types": [
+    "Electric",
+    "Steel"
+  ],
+  "abilities": [
+    "['Iron Barbs'",
+    "'Lightning Rod'",
+    "'Sturdy']"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 98,
+    "defense": 63,
+    "special_attack": 40,
+    "special_defense": 73,
+    "speed": 96
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "twineedle",
+      "power": 25,
+      "accuracy": 100,
+      "type": "bug",
+      "category": "physical",
+      "effect": "Hits twice in the same turn.  Has a 20% chance to poison the target."
+    },
+    {
+      "name": "pin-missile",
+      "power": 25,
+      "accuracy": 95,
+      "type": "bug",
+      "category": "physical",
+      "effect": "Hits 2-5 times in one turn."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "thunder-shock",
+      "power": 40,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunderbolt",
+      "power": 90,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunder-wave",
+      "power": null,
+      "accuracy": 90,
+      "type": "electric",
+      "category": "status",
+      "effect": "Paralyzes the target."
+    },
+    {
+      "name": "thunder",
+      "power": 110,
+      "accuracy": 70,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 30% chance to paralyze the target."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "togedemaru",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/777/"
+      }
+    },
+    "id": 403
+  }
+}

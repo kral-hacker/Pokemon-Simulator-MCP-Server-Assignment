@@ -1,0 +1,99 @@
+{
+  "name": "Zamazenta",
+  "number": 889,
+  "types": [
+    "Fighting"
+  ],
+  "abilities": [
+    "['Dauntless Shield']"
+  ],
+  "stats": {
+    "hp": 92,
+    "attack": 130,
+    "defense": 115,
+    "special_attack": 80,
+    "special_defense": 115,
+    "speed": 138
+  },
+  "generation": 8,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "bite",
+      "power": 60,
+      "accuracy": 100,
+      "type": "dark",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "roar",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "solar-beam",
+      "power": 120,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "dig",
+      "power": 80,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "physical",
+      "effect": "User digs underground, dodging all attacks, and hits next turn."
+    },
+    {
+      "name": "agility",
+      "power": null,
+      "accuracy": null,
+      "type": "psychic",
+      "category": "status",
+      "effect": "Raises the user’s Speed by two stages."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "zamazenta",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/889/"
+      }
+    },
+    "id": 468
+  }
+}

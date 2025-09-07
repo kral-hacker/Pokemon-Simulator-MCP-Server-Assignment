@@ -1,0 +1,35 @@
+{
+  "name": "Zygarde",
+  "number": 718,
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "abilities": [
+    "['Aura Break']"
+  ],
+  "stats": {
+    "hp": 108,
+    "attack": 100,
+    "defense": 121,
+    "special_attack": 81,
+    "special_defense": 95,
+    "speed": 95
+  },
+  "generation": 6,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "zygarde",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/718/"
+      }
+    },
+    "id": 370
+  }
+}

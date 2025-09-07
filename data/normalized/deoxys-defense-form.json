@@ -1,0 +1,22 @@
+{
+  "name": "Deoxys Defense Form",
+  "number": 386,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    "['Pressure']"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 160,
+    "special_attack": 70,
+    "special_defense": 160,
+    "speed": 90
+  },
+  "generation": 3,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

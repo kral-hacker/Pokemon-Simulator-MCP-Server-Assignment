@@ -1,0 +1,22 @@
+{
+  "name": "Mega Absol",
+  "number": 359,
+  "types": [
+    "Dark"
+  ],
+  "abilities": [
+    "['Magic Bounce']"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 150,
+    "defense": 60,
+    "special_attack": 115,
+    "special_defense": 60,
+    "speed": 115
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

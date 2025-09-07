@@ -1,0 +1,24 @@
+{
+  "name": "Wormadam Trash Cloak",
+  "number": 413,
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "abilities": [
+    "['Anticipation'",
+    "'Overcoat']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 69,
+    "defense": 95,
+    "special_attack": 69,
+    "special_defense": 95,
+    "speed": 36
+  },
+  "generation": 4,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

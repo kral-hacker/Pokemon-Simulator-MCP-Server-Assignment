@@ -1,0 +1,23 @@
+{
+  "name": "Mega Metagross",
+  "number": 376,
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "abilities": [
+    "['Tough Claws']"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 145,
+    "defense": 150,
+    "special_attack": 105,
+    "special_defense": 110,
+    "speed": 110
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

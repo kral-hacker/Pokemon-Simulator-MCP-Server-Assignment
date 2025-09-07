@@ -1,0 +1,22 @@
+{
+  "name": "Mega Banette",
+  "number": 354,
+  "types": [
+    "Ghost"
+  ],
+  "abilities": [
+    "['Prankster']"
+  ],
+  "stats": {
+    "hp": 64,
+    "attack": 165,
+    "defense": 75,
+    "special_attack": 93,
+    "special_defense": 83,
+    "speed": 75
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

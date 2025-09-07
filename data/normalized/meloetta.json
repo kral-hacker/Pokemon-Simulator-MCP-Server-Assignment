@@ -1,0 +1,35 @@
+{
+  "name": "Meloetta",
+  "number": 648,
+  "types": [
+    "Normal",
+    "Psychic"
+  ],
+  "abilities": [
+    "['Serene Grace']"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 77,
+    "defense": 77,
+    "special_attack": 128,
+    "special_defense": 128,
+    "speed": 90
+  },
+  "generation": 5,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "meloetta",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/648/"
+      }
+    },
+    "id": 335
+  }
+}

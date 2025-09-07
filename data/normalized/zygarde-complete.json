@@ -1,0 +1,24 @@
+{
+  "name": "Zygarde Complete",
+  "number": 718,
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "abilities": [
+    "['Aura Break'",
+    "'Power Construct']"
+  ],
+  "stats": {
+    "hp": 216,
+    "attack": 100,
+    "defense": 121,
+    "special_attack": 91,
+    "special_defense": 95,
+    "speed": 85
+  },
+  "generation": 6,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

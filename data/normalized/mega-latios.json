@@ -1,0 +1,23 @@
+{
+  "name": "Mega Latios",
+  "number": 381,
+  "types": [
+    "Dragon",
+    "Psychic"
+  ],
+  "abilities": [
+    "['Levitate']"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 130,
+    "defense": 100,
+    "special_attack": 160,
+    "special_defense": 120,
+    "speed": 110
+  },
+  "generation": 6,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

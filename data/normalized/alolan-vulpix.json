@@ -1,0 +1,23 @@
+{
+  "name": "Alolan Vulpix",
+  "number": 37,
+  "types": [
+    "Ice"
+  ],
+  "abilities": [
+    "['Snow Cloak'",
+    "'Snow Warning']"
+  ],
+  "stats": {
+    "hp": 38,
+    "attack": 41,
+    "defense": 40,
+    "special_attack": 50,
+    "special_defense": 65,
+    "speed": 65
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

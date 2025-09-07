@@ -1,0 +1,138 @@
+{
+  "name": "Pancham",
+  "number": 674,
+  "types": [
+    "Fighting"
+  ],
+  "abilities": [
+    "['Iron Fist'",
+    "'Mold Breaker'",
+    "'Scrappy']"
+  ],
+  "stats": {
+    "hp": 67,
+    "attack": 82,
+    "defense": 62,
+    "special_attack": 46,
+    "special_defense": 48,
+    "speed": 43
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "karate-chop",
+      "power": 50,
+      "accuracy": 100,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "Has an increased chance for a critical hit."
+    },
+    {
+      "name": "comet-punch",
+      "power": 18,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Hits 2-5 times in one turn."
+    },
+    {
+      "name": "mega-punch",
+      "power": 80,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "fire-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "fire",
+      "category": "physical",
+      "effect": "Has a 10% chance to burn the target."
+    },
+    {
+      "name": "ice-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "physical",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "thunder-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "physical",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "swords-dance",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Attack by two stages."
+    },
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 32,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": {
+                "name": "dark",
+                "url": "https://pokeapi.co/api/v2/type/17/"
+              },
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "pangoro",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/675/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "pancham",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/674/"
+      }
+    },
+    "id": 346
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Oricorio Baile Style",
+  "number": 741,
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "abilities": [
+    "['Dancer']"
+  ],
+  "stats": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 70,
+    "special_attack": 98,
+    "special_defense": 70,
+    "speed": 93
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

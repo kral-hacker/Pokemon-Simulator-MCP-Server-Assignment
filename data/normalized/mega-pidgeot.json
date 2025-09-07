@@ -1,0 +1,23 @@
+{
+  "name": "Mega Pidgeot",
+  "number": 18,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "abilities": [
+    "['No Guard']"
+  ],
+  "stats": {
+    "hp": 83,
+    "attack": 80,
+    "defense": 80,
+    "special_attack": 135,
+    "special_defense": 80,
+    "speed": 121
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

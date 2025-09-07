@@ -1,0 +1,23 @@
+{
+  "name": "White Kyurem",
+  "number": 646,
+  "types": [
+    "Dragon",
+    "Ice"
+  ],
+  "abilities": [
+    "['Turboblaze']"
+  ],
+  "stats": {
+    "hp": 125,
+    "attack": 120,
+    "defense": 90,
+    "special_attack": 170,
+    "special_defense": 100,
+    "speed": 95
+  },
+  "generation": 5,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

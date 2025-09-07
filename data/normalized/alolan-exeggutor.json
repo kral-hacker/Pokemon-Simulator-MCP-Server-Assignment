@@ -1,0 +1,24 @@
+{
+  "name": "Alolan Exeggutor",
+  "number": 103,
+  "types": [
+    "Grass",
+    "Dragon"
+  ],
+  "abilities": [
+    "['Frisk'",
+    "'Harvest']"
+  ],
+  "stats": {
+    "hp": 95,
+    "attack": 105,
+    "defense": 85,
+    "special_attack": 125,
+    "special_defense": 75,
+    "speed": 45
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

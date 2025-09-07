@@ -1,0 +1,22 @@
+{
+  "name": "Deoxys Normal Form",
+  "number": 386,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    "['Pressure']"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 150,
+    "defense": 50,
+    "special_attack": 150,
+    "special_defense": 50,
+    "speed": 150
+  },
+  "generation": 3,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

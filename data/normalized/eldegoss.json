@@ -1,0 +1,135 @@
+{
+  "name": "Eldegoss",
+  "number": 830,
+  "types": [
+    "Grass"
+  ],
+  "abilities": [
+    "['Cotton Down'",
+    "'Effect Spore'",
+    "'Regenerator']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 90,
+    "special_attack": 80,
+    "special_defense": 120,
+    "speed": 60
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "sing",
+      "power": null,
+      "accuracy": 55,
+      "type": "normal",
+      "category": "status",
+      "effect": "Puts the target to sleep."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "razor-leaf",
+      "power": 55,
+      "accuracy": 95,
+      "type": "grass",
+      "category": "physical",
+      "effect": "Has an increased chance for a critical hit."
+    },
+    {
+      "name": "solar-beam",
+      "power": 120,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "light-screen",
+      "power": null,
+      "accuracy": null,
+      "type": "psychic",
+      "category": "status",
+      "effect": "Reduces damage from special attacks by 50% for five turns."
+    },
+    {
+      "name": "rest",
+      "power": null,
+      "accuracy": null,
+      "type": "psychic",
+      "category": "status",
+      "effect": "User sleeps for two turns, completely healing itself."
+    },
+    {
+      "name": "substitute",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Transfers 1/4 of the user’s max HP into a doll, protecting the user from further damage or status changes until it breaks."
+    },
+    {
+      "name": "snore",
+      "power": 50,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "special",
+      "effect": "Has a 30% chance to make the target flinch.  Only works if the user is sleeping."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 20,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "eldegoss",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/830/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "gossifleur",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/829/"
+      }
+    },
+    "id": 437
+  }
+}

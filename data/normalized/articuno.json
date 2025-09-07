@@ -1,0 +1,101 @@
+{
+  "name": "Articuno",
+  "number": 144,
+  "types": [
+    "Ice",
+    "Flying"
+  ],
+  "abilities": [
+    "['Pressure'",
+    "'Snow Cloak']"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "special_attack": 95,
+    "special_defense": 125,
+    "speed": 85
+  },
+  "generation": 1,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "razor-wind",
+      "power": 80,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "gust",
+      "power": 40,
+      "accuracy": 100,
+      "type": "flying",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Pokémon in the air."
+    },
+    {
+      "name": "whirlwind",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+    },
+    {
+      "name": "fly",
+      "power": 90,
+      "accuracy": 95,
+      "type": "flying",
+      "category": "physical",
+      "effect": "User flies high into the air, dodging all attacks, and hits next turn."
+    },
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "leer",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "articuno",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/144/"
+      }
+    },
+    "id": 73
+  }
+}

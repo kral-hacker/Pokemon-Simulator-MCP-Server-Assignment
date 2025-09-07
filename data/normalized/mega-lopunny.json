@@ -1,0 +1,23 @@
+{
+  "name": "Mega Lopunny",
+  "number": 428,
+  "types": [
+    "Normal",
+    "Fighting"
+  ],
+  "abilities": [
+    "['Scrappy']"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 136,
+    "defense": 94,
+    "special_attack": 54,
+    "special_defense": 96,
+    "speed": 135
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

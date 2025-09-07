@@ -1,0 +1,25 @@
+{
+  "name": "Mime Jr.",
+  "number": 439,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "abilities": [
+    "['Filter'",
+    "'Soundproof'",
+    "'Technician']"
+  ],
+  "stats": {
+    "hp": 20,
+    "attack": 25,
+    "defense": 45,
+    "special_attack": 70,
+    "special_defense": 90,
+    "speed": 60
+  },
+  "generation": 4,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Comfey",
+  "number": 764,
+  "types": [
+    "Fairy"
+  ],
+  "abilities": [
+    "['Flower Veil'",
+    "'Natural Cure'",
+    "'Triage']"
+  ],
+  "stats": {
+    "hp": 51,
+    "attack": 52,
+    "defense": 90,
+    "special_attack": 82,
+    "special_defense": 110,
+    "speed": 100
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "bind",
+      "power": 15,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+    },
+    {
+      "name": "vine-whip",
+      "power": 45,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "wrap",
+      "power": 15,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "leech-seed",
+      "power": null,
+      "accuracy": 90,
+      "type": "grass",
+      "category": "status",
+      "effect": "Seeds the target, stealing HP from it every turn."
+    },
+    {
+      "name": "growth",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Attack and Special Attack by one stage."
+    },
+    {
+      "name": "solar-beam",
+      "power": 120,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "petal-dance",
+      "power": 120,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Hits every turn for 2-3 turns, then confuses the user."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "comfey",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/764/"
+      }
+    },
+    "id": 393
+  }
+}

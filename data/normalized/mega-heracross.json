@@ -1,0 +1,23 @@
+{
+  "name": "Mega Heracross",
+  "number": 214,
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "abilities": [
+    "['Skill Link']"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 185,
+    "defense": 115,
+    "special_attack": 40,
+    "special_defense": 105,
+    "speed": 75
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

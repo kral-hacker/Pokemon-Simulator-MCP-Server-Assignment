@@ -1,0 +1,45 @@
+{
+  "name": "Smeargle",
+  "number": 235,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    "['Moody'",
+    "'Own Tempo'",
+    "'Technician']"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 20,
+    "defense": 35,
+    "special_attack": 20,
+    "special_defense": 45,
+    "speed": 75
+  },
+  "generation": 2,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "sketch",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Permanently becomes the target’s last used move."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "smeargle",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/235/"
+      }
+    },
+    "id": 121
+  }
+}

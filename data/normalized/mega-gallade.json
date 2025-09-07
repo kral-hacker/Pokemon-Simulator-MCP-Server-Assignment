@@ -1,0 +1,23 @@
+{
+  "name": "Mega Gallade",
+  "number": 475,
+  "types": [
+    "Psychic",
+    "Fighting"
+  ],
+  "abilities": [
+    "['Inner Focus']"
+  ],
+  "stats": {
+    "hp": 68,
+    "attack": 165,
+    "defense": 95,
+    "special_attack": 65,
+    "special_defense": 115,
+    "speed": 110
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

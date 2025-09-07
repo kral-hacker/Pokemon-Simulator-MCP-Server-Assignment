@@ -1,0 +1,167 @@
+{
+  "name": "Burmy",
+  "number": 412,
+  "types": [
+    "Bug"
+  ],
+  "abilities": [
+    "['Overcoat'",
+    "'Shed Skin']"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 29,
+    "defense": 45,
+    "special_attack": 29,
+    "special_defense": 45,
+    "speed": 36
+  },
+  "generation": 4,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "string-shot",
+      "power": null,
+      "accuracy": 95,
+      "type": "bug",
+      "category": "status",
+      "effect": "Lowers the target’s Speed by two stages."
+    },
+    {
+      "name": "snore",
+      "power": 50,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "special",
+      "effect": "Has a 30% chance to make the target flinch.  Only works if the user is sleeping."
+    },
+    {
+      "name": "protect",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Prevents any moves from hitting the user this turn."
+    },
+    {
+      "name": "hidden-power",
+      "power": 60,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "special",
+      "effect": "Power and type depend upon user’s IVs.  Power can range from 30 to 70."
+    },
+    {
+      "name": "bug-bite",
+      "power": 60,
+      "accuracy": 100,
+      "type": "bug",
+      "category": "physical",
+      "effect": "If target has a berry, inflicts double damage and uses the berry."
+    },
+    {
+      "name": "struggle-bug",
+      "power": 50,
+      "accuracy": 100,
+      "type": "bug",
+      "category": "special",
+      "effect": "Has a 100% chance to lower the target’s Special Attack by one stage."
+    },
+    {
+      "name": "electroweb",
+      "power": 55,
+      "accuracy": 95,
+      "type": "electric",
+      "category": "special",
+      "effect": "Lowers the target’s Speed by one stage."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": 1,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 20,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "wormadam",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/413/"
+          }
+        },
+        {
+          "evolution_details": [
+            {
+              "gender": 2,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 20,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "mothim",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/414/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "burmy",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/412/"
+      }
+    },
+    "id": 213
+  }
+}

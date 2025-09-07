@@ -1,0 +1,23 @@
+{
+  "name": "Mega Mawile",
+  "number": 303,
+  "types": [
+    "Steel",
+    "Fairy"
+  ],
+  "abilities": [
+    "['Huge Power']"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 105,
+    "defense": 125,
+    "special_attack": 55,
+    "special_defense": 95,
+    "speed": 50
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

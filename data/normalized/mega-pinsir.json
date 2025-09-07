@@ -1,0 +1,23 @@
+{
+  "name": "Mega Pinsir",
+  "number": 127,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "abilities": [
+    "['Aerilate']"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 155,
+    "defense": 120,
+    "special_attack": 65,
+    "special_defense": 90,
+    "speed": 105
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

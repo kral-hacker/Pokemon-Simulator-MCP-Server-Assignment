@@ -1,0 +1,100 @@
+{
+  "name": "Lunatone",
+  "number": 337,
+  "types": [
+    "Rock",
+    "Psychic"
+  ],
+  "abilities": [
+    "['Levitate']"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 55,
+    "defense": 65,
+    "special_attack": 95,
+    "special_defense": 85,
+    "speed": 70
+  },
+  "generation": 3,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "ice-beam",
+      "power": 90,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "blizzard",
+      "power": 110,
+      "accuracy": 70,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "rock-throw",
+      "power": 50,
+      "accuracy": 90,
+      "type": "rock",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "earthquake",
+      "power": 100,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "physical",
+      "effect": "Inflicts regular damage and can hit Dig users."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "lunatone",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/337/"
+      }
+    },
+    "id": 171
+  }
+}

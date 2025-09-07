@@ -1,0 +1,24 @@
+{
+  "name": "Tapu Koko",
+  "number": 785,
+  "types": [
+    "Electric",
+    "Fairy"
+  ],
+  "abilities": [
+    "['Electric Surge'",
+    "'Telepathy']"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 115,
+    "defense": 85,
+    "special_attack": 95,
+    "special_defense": 75,
+    "speed": 130
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

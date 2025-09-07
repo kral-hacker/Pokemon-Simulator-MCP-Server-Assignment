@@ -1,0 +1,169 @@
+{
+  "name": "Starly",
+  "number": 396,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "abilities": [
+    "['Keen Eye'",
+    "'Reckless']"
+  ],
+  "stats": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 60
+  },
+  "generation": 4,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "gust",
+      "power": 40,
+      "accuracy": 100,
+      "type": "flying",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Pokémon in the air."
+    },
+    {
+      "name": "wing-attack",
+      "power": 60,
+      "accuracy": 100,
+      "type": "flying",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "whirlwind",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+    },
+    {
+      "name": "fly",
+      "power": 90,
+      "accuracy": 95,
+      "type": "flying",
+      "category": "physical",
+      "effect": "User flies high into the air, dodging all attacks, and hits next turn."
+    },
+    {
+      "name": "sand-attack",
+      "power": null,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "status",
+      "effect": "Lowers the target’s accuracy by one stage."
+    },
+    {
+      "name": "fury-attack",
+      "power": 15,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Hits 2-5 times in one turn."
+    },
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 14,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [
+            {
+              "evolution_details": [
+                {
+                  "gender": null,
+                  "held_item": null,
+                  "item": null,
+                  "known_move": null,
+                  "known_move_type": null,
+                  "location": null,
+                  "min_affection": null,
+                  "min_beauty": null,
+                  "min_happiness": null,
+                  "min_level": 34,
+                  "needs_overworld_rain": false,
+                  "party_species": null,
+                  "party_type": null,
+                  "relative_physical_stats": null,
+                  "time_of_day": "",
+                  "trade_species": null,
+                  "trigger": {
+                    "name": "level-up",
+                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                  },
+                  "turn_upside_down": false
+                }
+              ],
+              "evolves_to": [],
+              "is_baby": false,
+              "species": {
+                "name": "staraptor",
+                "url": "https://pokeapi.co/api/v2/pokemon-species/398/"
+              }
+            }
+          ],
+          "is_baby": false,
+          "species": {
+            "name": "staravia",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/397/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "starly",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/396/"
+      }
+    },
+    "id": 206
+  }
+}

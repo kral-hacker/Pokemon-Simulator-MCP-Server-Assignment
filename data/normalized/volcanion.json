@@ -1,0 +1,100 @@
+{
+  "name": "Volcanion",
+  "number": 721,
+  "types": [
+    "Fire",
+    "Water"
+  ],
+  "abilities": [
+    "['Water Absorb']"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 110,
+    "defense": 120,
+    "special_attack": 130,
+    "special_defense": 90,
+    "speed": 70
+  },
+  "generation": 6,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "cut",
+      "power": 50,
+      "accuracy": 95,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "stomp",
+      "power": 65,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "leer",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    },
+    {
+      "name": "roar",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+    },
+    {
+      "name": "flamethrower",
+      "power": 90,
+      "accuracy": 100,
+      "type": "fire",
+      "category": "special",
+      "effect": "Has a 10% chance to burn the target."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "volcanion",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/721/"
+      }
+    },
+    "id": 373
+  }
+}

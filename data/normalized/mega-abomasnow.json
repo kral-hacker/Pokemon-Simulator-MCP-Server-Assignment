@@ -1,0 +1,23 @@
+{
+  "name": "Mega Abomasnow",
+  "number": 460,
+  "types": [
+    "Grass",
+    "Ice"
+  ],
+  "abilities": [
+    "['Snow Warning']"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 132,
+    "defense": 105,
+    "special_attack": 132,
+    "special_defense": 105,
+    "speed": 30
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

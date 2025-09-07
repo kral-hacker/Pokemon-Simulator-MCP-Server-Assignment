@@ -1,0 +1,25 @@
+{
+  "name": "Alolan Golem",
+  "number": 76,
+  "types": [
+    "Rock",
+    "Electric"
+  ],
+  "abilities": [
+    "['Galvanize'",
+    "'Magnet Pull'",
+    "'Sturdy']"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 130,
+    "special_attack": 55,
+    "special_defense": 65,
+    "speed": 45
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

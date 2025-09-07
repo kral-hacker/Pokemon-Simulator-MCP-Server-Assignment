@@ -1,0 +1,100 @@
+{
+  "name": "Magearna",
+  "number": 801,
+  "types": [
+    "Steel",
+    "Fairy"
+  ],
+  "abilities": [
+    "['Soul-Heart']"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 95,
+    "defense": 115,
+    "special_attack": 130,
+    "special_defense": 115,
+    "speed": 65
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "sonic-boom",
+      "power": null,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "Inflicts 20 points of damage."
+    },
+    {
+      "name": "ice-beam",
+      "power": 90,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "psybeam",
+      "power": 65,
+      "accuracy": 100,
+      "type": "psychic",
+      "category": "special",
+      "effect": "Has a 10% chance to confuse the target."
+    },
+    {
+      "name": "aurora-beam",
+      "power": 65,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to lower the target’s Attack by one stage."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "solar-beam",
+      "power": 120,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "magearna",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/801/"
+      }
+    },
+    "id": 422
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Alolan Marowak",
+  "number": 105,
+  "types": [
+    "Fire",
+    "Ghost"
+  ],
+  "abilities": [
+    "['Cursed Body'",
+    "'Rock Head']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "special_attack": 50,
+    "special_defense": 80,
+    "speed": 45
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

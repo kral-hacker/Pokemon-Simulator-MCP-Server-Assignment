@@ -1,0 +1,24 @@
+{
+  "name": "Nidoran♂",
+  "number": 32,
+  "types": [
+    "Poison"
+  ],
+  "abilities": [
+    "['Hustle'",
+    "'Poison Point'",
+    "'Rivalry']"
+  ],
+  "stats": {
+    "hp": 46,
+    "attack": 57,
+    "defense": 40,
+    "special_attack": 40,
+    "special_defense": 40,
+    "speed": 50
+  },
+  "generation": 1,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

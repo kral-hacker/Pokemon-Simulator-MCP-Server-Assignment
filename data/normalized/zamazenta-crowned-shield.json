@@ -1,0 +1,23 @@
+{
+  "name": "Zamazenta Crowned Shield",
+  "number": 889,
+  "types": [
+    "Fighting",
+    "Steel"
+  ],
+  "abilities": [
+    "['Dauntless Shield']"
+  ],
+  "stats": {
+    "hp": 92,
+    "attack": 130,
+    "defense": 145,
+    "special_attack": 80,
+    "special_defense": 145,
+    "speed": 128
+  },
+  "generation": 8,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

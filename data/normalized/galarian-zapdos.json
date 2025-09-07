@@ -1,0 +1,23 @@
+{
+  "name": "Galarian Zapdos",
+  "number": 145,
+  "types": [
+    "Fighting",
+    "Flying"
+  ],
+  "abilities": [
+    "['Defiant']"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 125,
+    "defense": 90,
+    "special_attack": 85,
+    "special_defense": 90,
+    "speed": 100
+  },
+  "generation": 8,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

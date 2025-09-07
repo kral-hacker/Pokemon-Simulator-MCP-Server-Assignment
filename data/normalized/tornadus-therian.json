@@ -1,0 +1,87 @@
+{
+  "name": "Tornadus-Therian",
+  "number": 641,
+  "types": [
+    "Flying"
+  ],
+  "abilities": [
+    "['Regenerator']"
+  ],
+  "stats": {
+    "hp": 79,
+    "attack": 100,
+    "defense": 80,
+    "special_attack": 110,
+    "special_defense": 90,
+    "speed": 121
+  },
+  "generation": 5,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "gust",
+      "power": 40,
+      "accuracy": 100,
+      "type": "flying",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Pokémon in the air."
+    },
+    {
+      "name": "fly",
+      "power": 90,
+      "accuracy": 95,
+      "type": "flying",
+      "category": "physical",
+      "effect": "User flies high into the air, dodging all attacks, and hits next turn."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "thrash",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Hits every turn for 2-3 turns, then confuses the user."
+    },
+    {
+      "name": "leer",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    },
+    {
+      "name": "bite",
+      "power": 60,
+      "accuracy": 100,
+      "type": "dark",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    }
+  ],
+  "evolution_chain": null
+}

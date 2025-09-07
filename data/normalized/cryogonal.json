@@ -1,0 +1,99 @@
+{
+  "name": "Cryogonal",
+  "number": 615,
+  "types": [
+    "Ice"
+  ],
+  "abilities": [
+    "['Levitate']"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 50,
+    "defense": 50,
+    "special_attack": 95,
+    "special_defense": 135,
+    "speed": 105
+  },
+  "generation": 5,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "bind",
+      "power": 15,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "mist",
+      "power": null,
+      "accuracy": null,
+      "type": "ice",
+      "category": "status",
+      "effect": "Protects the user’s stats from being changed by enemy moves."
+    },
+    {
+      "name": "ice-beam",
+      "power": 90,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "blizzard",
+      "power": 110,
+      "accuracy": 70,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "aurora-beam",
+      "power": 65,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to lower the target’s Attack by one stage."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "cryogonal",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/615/"
+      }
+    },
+    "id": 311
+  }
+}

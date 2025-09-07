@@ -1,0 +1,37 @@
+{
+  "name": "Indeedee",
+  "number": 876,
+  "types": [
+    "Psychic",
+    "Normal"
+  ],
+  "abilities": [
+    "['Inner Focus'",
+    "'Psychic Surge'",
+    "'Synchronize']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 55,
+    "special_attack": 105,
+    "special_defense": 95,
+    "speed": 95
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "indeedee",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/876/"
+      }
+    },
+    "id": 458
+  }
+}

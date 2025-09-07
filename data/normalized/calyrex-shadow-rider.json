@@ -1,0 +1,23 @@
+{
+  "name": "Calyrex Shadow Rider",
+  "number": 898,
+  "types": [
+    "Psychic",
+    "Ghost"
+  ],
+  "abilities": [
+    "['As One']"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 85,
+    "defense": 80,
+    "special_attack": 165,
+    "special_defense": 100,
+    "speed": 150
+  },
+  "generation": 8,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

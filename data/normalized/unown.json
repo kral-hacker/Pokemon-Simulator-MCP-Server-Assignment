@@ -1,0 +1,43 @@
+{
+  "name": "Unown",
+  "number": 201,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    "['Levitate']"
+  ],
+  "stats": {
+    "hp": 48,
+    "attack": 72,
+    "defense": 48,
+    "special_attack": 72,
+    "special_defense": 48,
+    "speed": 48
+  },
+  "generation": 2,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "hidden-power",
+      "power": 60,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "special",
+      "effect": "Power and type depend upon user’s IVs.  Power can range from 30 to 70."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "unown",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/201/"
+      }
+    },
+    "id": 99
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mega Ampharos",
+  "number": 181,
+  "types": [
+    "Electric",
+    "Dragon"
+  ],
+  "abilities": [
+    "['Mold Breaker']"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 95,
+    "defense": 105,
+    "special_attack": 165,
+    "special_defense": 110,
+    "speed": 45
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

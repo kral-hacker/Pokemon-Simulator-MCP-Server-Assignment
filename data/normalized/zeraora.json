@@ -1,0 +1,99 @@
+{
+  "name": "Zeraora",
+  "number": 807,
+  "types": [
+    "Electric"
+  ],
+  "abilities": [
+    "['Volt Absorb']"
+  ],
+  "stats": {
+    "hp": 88,
+    "attack": 112,
+    "defense": 75,
+    "special_attack": 102,
+    "special_defense": 80,
+    "speed": 143
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "power": 80,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "pay-day",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Scatters money on the ground worth five times the user’s level."
+    },
+    {
+      "name": "fire-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "fire",
+      "category": "physical",
+      "effect": "Has a 10% chance to burn the target."
+    },
+    {
+      "name": "thunder-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "physical",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "scratch",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "mega-kick",
+      "power": 120,
+      "accuracy": 75,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "low-kick",
+      "power": null,
+      "accuracy": 100,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "Inflicts more damage to heavier targets, with a maximum of 120 power."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "zeraora",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/807/"
+      }
+    },
+    "id": 427
+  }
+}

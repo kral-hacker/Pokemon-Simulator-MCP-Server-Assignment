@@ -1,0 +1,25 @@
+{
+  "name": "Galarian Slowbro",
+  "number": 80,
+  "types": [
+    "Poison",
+    "Psychic"
+  ],
+  "abilities": [
+    "['Own Tempo'",
+    "'Quick Draw'",
+    "'Regenerator']"
+  ],
+  "stats": {
+    "hp": 95,
+    "attack": 100,
+    "defense": 95,
+    "special_attack": 100,
+    "special_defense": 70,
+    "speed": 30
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

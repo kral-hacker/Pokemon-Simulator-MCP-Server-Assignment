@@ -1,0 +1,135 @@
+{
+  "name": "Rapidash",
+  "number": 78,
+  "types": [
+    "Fire"
+  ],
+  "abilities": [
+    "['Flame Body'",
+    "'Flash Fire'",
+    "'Run Away']"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "special_attack": 80,
+    "special_defense": 80,
+    "speed": 105
+  },
+  "generation": 1,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "pay-day",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Scatters money on the ground worth five times the user’s level."
+    },
+    {
+      "name": "swords-dance",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Attack by two stages."
+    },
+    {
+      "name": "stomp",
+      "power": 65,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "double-kick",
+      "power": 30,
+      "accuracy": 100,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "Hits twice in one turn."
+    },
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "fury-attack",
+      "power": 15,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Hits 2-5 times in one turn."
+    },
+    {
+      "name": "horn-drill",
+      "power": null,
+      "accuracy": 30,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Causes a one-hit KO."
+    },
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 40,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "rapidash",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/78/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "ponyta",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/77/"
+      }
+    },
+    "id": 32
+  }
+}

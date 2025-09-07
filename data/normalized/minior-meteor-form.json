@@ -1,0 +1,23 @@
+{
+  "name": "Minior Meteor Form",
+  "number": 774,
+  "types": [
+    "Rock",
+    "Flying"
+  ],
+  "abilities": [
+    "['Shields Down']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 100,
+    "special_attack": 60,
+    "special_defense": 100,
+    "speed": 60
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

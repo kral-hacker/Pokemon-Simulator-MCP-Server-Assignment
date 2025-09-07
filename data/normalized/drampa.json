@@ -1,0 +1,102 @@
+{
+  "name": "Drampa",
+  "number": 780,
+  "types": [
+    "Normal",
+    "Dragon"
+  ],
+  "abilities": [
+    "['Berserk'",
+    "'Cloud Nine'",
+    "'Sap Sipper']"
+  ],
+  "stats": {
+    "hp": 78,
+    "attack": 60,
+    "defense": 85,
+    "special_attack": 135,
+    "special_defense": 91,
+    "speed": 36
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "razor-wind",
+      "power": 80,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "fly",
+      "power": 90,
+      "accuracy": 95,
+      "type": "flying",
+      "category": "physical",
+      "effect": "User flies high into the air, dodging all attacks, and hits next turn."
+    },
+    {
+      "name": "roar",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+    },
+    {
+      "name": "flamethrower",
+      "power": 90,
+      "accuracy": 100,
+      "type": "fire",
+      "category": "special",
+      "effect": "Has a 10% chance to burn the target."
+    },
+    {
+      "name": "mist",
+      "power": null,
+      "accuracy": null,
+      "type": "ice",
+      "category": "status",
+      "effect": "Protects the user’s stats from being changed by enemy moves."
+    },
+    {
+      "name": "hydro-pump",
+      "power": 110,
+      "accuracy": 80,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "surf",
+      "power": 90,
+      "accuracy": 100,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Dive users."
+    },
+    {
+      "name": "ice-beam",
+      "power": 90,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "drampa",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/780/"
+      }
+    },
+    "id": 406
+  }
+}

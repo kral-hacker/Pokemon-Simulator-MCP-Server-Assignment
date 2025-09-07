@@ -1,0 +1,23 @@
+{
+  "name": "Mega Gyarados",
+  "number": 130,
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "abilities": [
+    "['Mold Breaker']"
+  ],
+  "stats": {
+    "hp": 95,
+    "attack": 155,
+    "defense": 109,
+    "special_attack": 70,
+    "special_defense": 130,
+    "speed": 81
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

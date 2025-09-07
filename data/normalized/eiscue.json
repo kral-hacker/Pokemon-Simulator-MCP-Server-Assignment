@@ -1,0 +1,34 @@
+{
+  "name": "Eiscue",
+  "number": 875,
+  "types": [
+    "Ice"
+  ],
+  "abilities": [
+    "['Ice Face']"
+  ],
+  "stats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 110,
+    "special_attack": 65,
+    "special_defense": 90,
+    "speed": 50
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "eiscue",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/875/"
+      }
+    },
+    "id": 457
+  }
+}

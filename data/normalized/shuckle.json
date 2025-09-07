@@ -1,0 +1,102 @@
+{
+  "name": "Shuckle",
+  "number": 213,
+  "types": [
+    "Bug",
+    "Rock"
+  ],
+  "abilities": [
+    "['Contrary'",
+    "'Gluttony'",
+    "'Sturdy']"
+  ],
+  "stats": {
+    "hp": 20,
+    "attack": 10,
+    "defense": 230,
+    "special_attack": 10,
+    "special_defense": 230,
+    "speed": 5
+  },
+  "generation": 2,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "bind",
+      "power": 15,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+    },
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "wrap",
+      "power": 15,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+    },
+    {
+      "name": "double-edge",
+      "power": 120,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/3 the damage inflicted in recoil."
+    },
+    {
+      "name": "acid",
+      "power": 40,
+      "accuracy": 100,
+      "type": "poison",
+      "category": "special",
+      "effect": "Has a 10% chance to lower the target’s Special Defense by one stage."
+    },
+    {
+      "name": "strength",
+      "power": 80,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "string-shot",
+      "power": null,
+      "accuracy": 95,
+      "type": "bug",
+      "category": "status",
+      "effect": "Lowers the target’s Speed by two stages."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "shuckle",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/213/"
+      }
+    },
+    "id": 107
+  }
+}

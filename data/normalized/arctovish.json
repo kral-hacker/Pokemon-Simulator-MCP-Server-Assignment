@@ -1,0 +1,102 @@
+{
+  "name": "Arctovish",
+  "number": 883,
+  "types": [
+    "Water",
+    "Ice"
+  ],
+  "abilities": [
+    "['Ice Body'",
+    "'Slush Rush'",
+    "'Water Absorb']"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 90,
+    "defense": 100,
+    "special_attack": 80,
+    "special_defense": 90,
+    "speed": 55
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "bite",
+      "power": 60,
+      "accuracy": 100,
+      "type": "dark",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "water-gun",
+      "power": 40,
+      "accuracy": 100,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "hydro-pump",
+      "power": 110,
+      "accuracy": 80,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "surf",
+      "power": 90,
+      "accuracy": 100,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Dive users."
+    },
+    {
+      "name": "ice-beam",
+      "power": 90,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "blizzard",
+      "power": 110,
+      "accuracy": 70,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "arctovish",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/883/"
+      }
+    },
+    "id": 464
+  }
+}

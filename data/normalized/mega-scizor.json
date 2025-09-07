@@ -1,0 +1,23 @@
+{
+  "name": "Mega Scizor",
+  "number": 212,
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "abilities": [
+    "['Technician']"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 150,
+    "defense": 140,
+    "special_attack": 65,
+    "special_defense": 100,
+    "speed": 75
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

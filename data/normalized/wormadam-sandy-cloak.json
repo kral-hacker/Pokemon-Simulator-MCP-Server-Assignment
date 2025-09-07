@@ -1,0 +1,24 @@
+{
+  "name": "Wormadam Sandy Cloak",
+  "number": 413,
+  "types": [
+    "Bug",
+    "Ground"
+  ],
+  "abilities": [
+    "['Anticipation'",
+    "'Overcoat']"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 79,
+    "defense": 105,
+    "special_attack": 59,
+    "special_defense": 85,
+    "speed": 36
+  },
+  "generation": 4,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

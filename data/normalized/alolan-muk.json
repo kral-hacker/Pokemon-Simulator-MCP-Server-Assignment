@@ -1,0 +1,25 @@
+{
+  "name": "Alolan Muk",
+  "number": 89,
+  "types": [
+    "Poison",
+    "Dark"
+  ],
+  "abilities": [
+    "['Gluttony'",
+    "'Poison Touch'",
+    "'Power of Alchemy']"
+  ],
+  "stats": {
+    "hp": 105,
+    "attack": 105,
+    "defense": 75,
+    "special_attack": 65,
+    "special_defense": 100,
+    "speed": 50
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

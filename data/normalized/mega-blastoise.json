@@ -1,0 +1,22 @@
+{
+  "name": "Mega Blastoise",
+  "number": 9,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    "['Mega Launcher']"
+  ],
+  "stats": {
+    "hp": 79,
+    "attack": 103,
+    "defense": 120,
+    "special_attack": 135,
+    "special_defense": 115,
+    "speed": 78
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

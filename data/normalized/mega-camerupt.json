@@ -1,0 +1,23 @@
+{
+  "name": "Mega Camerupt",
+  "number": 323,
+  "types": [
+    "Fire",
+    "Ground"
+  ],
+  "abilities": [
+    "['Sheer Force']"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 120,
+    "defense": 100,
+    "special_attack": 145,
+    "special_defense": 105,
+    "speed": 20
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

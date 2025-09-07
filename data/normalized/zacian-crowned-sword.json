@@ -1,0 +1,23 @@
+{
+  "name": "Zacian Crowned Sword",
+  "number": 888,
+  "types": [
+    "Fairy",
+    "Steel"
+  ],
+  "abilities": [
+    "['Intrepid Sword']"
+  ],
+  "stats": {
+    "hp": 92,
+    "attack": 170,
+    "defense": 115,
+    "special_attack": 80,
+    "special_defense": 115,
+    "speed": 148
+  },
+  "generation": 8,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

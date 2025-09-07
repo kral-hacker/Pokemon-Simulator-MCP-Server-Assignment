@@ -1,0 +1,100 @@
+{
+  "name": "Pheromosa",
+  "number": 795,
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "abilities": [
+    "['Beast Boost']"
+  ],
+  "stats": {
+    "hp": 71,
+    "attack": 137,
+    "defense": 37,
+    "special_attack": 137,
+    "special_defense": 37,
+    "speed": 151
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "stomp",
+      "power": 65,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "double-kick",
+      "power": 30,
+      "accuracy": 100,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "Hits twice in one turn."
+    },
+    {
+      "name": "jump-kick",
+      "power": 100,
+      "accuracy": 95,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "If the user misses, it takes half the damage it would have inflicted in recoil."
+    },
+    {
+      "name": "leer",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by one stage."
+    },
+    {
+      "name": "ice-beam",
+      "power": 90,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "blizzard",
+      "power": 110,
+      "accuracy": 70,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "low-kick",
+      "power": null,
+      "accuracy": 100,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "Inflicts more damage to heavier targets, with a maximum of 120 power."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "pheromosa",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/795/"
+      }
+    },
+    "id": 416
+  }
+}

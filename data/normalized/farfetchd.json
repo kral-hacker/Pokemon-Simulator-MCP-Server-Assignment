@@ -1,0 +1,25 @@
+{
+  "name": "Farfetch'd",
+  "number": 83,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "abilities": [
+    "['Defiant'",
+    "'Inner Focus'",
+    "'Keen Eye']"
+  ],
+  "stats": {
+    "hp": 52,
+    "attack": 90,
+    "defense": 55,
+    "special_attack": 58,
+    "special_defense": 62,
+    "speed": 60
+  },
+  "generation": 1,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

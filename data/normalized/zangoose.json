@@ -1,0 +1,100 @@
+{
+  "name": "Zangoose",
+  "number": 335,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    "['Immunity'",
+    "'Toxic Boost']"
+  ],
+  "stats": {
+    "hp": 73,
+    "attack": 115,
+    "defense": 60,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 90
+  },
+  "generation": 3,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "power": 80,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "fire-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "fire",
+      "category": "physical",
+      "effect": "Has a 10% chance to burn the target."
+    },
+    {
+      "name": "ice-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "physical",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "thunder-punch",
+      "power": 75,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "physical",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "scratch",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "razor-wind",
+      "power": 80,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "special",
+      "effect": "Requires a turn to charge before attacking."
+    },
+    {
+      "name": "swords-dance",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Attack by two stages."
+    },
+    {
+      "name": "double-kick",
+      "power": 30,
+      "accuracy": 100,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "Hits twice in one turn."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "zangoose",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/335/"
+      }
+    },
+    "id": 169
+  }
+}

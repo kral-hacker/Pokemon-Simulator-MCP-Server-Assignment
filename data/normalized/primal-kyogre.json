@@ -1,0 +1,22 @@
+{
+  "name": "Primal Kyogre",
+  "number": 382,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    "['Primordial Sea']"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 150,
+    "defense": 90,
+    "special_attack": 180,
+    "special_defense": 160,
+    "speed": 90
+  },
+  "generation": 6,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

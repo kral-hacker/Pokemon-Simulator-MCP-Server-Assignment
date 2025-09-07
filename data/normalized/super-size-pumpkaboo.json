@@ -1,0 +1,25 @@
+{
+  "name": "Super Size Pumpkaboo",
+  "number": 710,
+  "types": [
+    "Ghost",
+    "Grass"
+  ],
+  "abilities": [
+    "['Frisk'",
+    "'Insomnia'",
+    "'Pickup']"
+  ],
+  "stats": {
+    "hp": 59,
+    "attack": 66,
+    "defense": 70,
+    "special_attack": 44,
+    "special_defense": 55,
+    "speed": 41
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

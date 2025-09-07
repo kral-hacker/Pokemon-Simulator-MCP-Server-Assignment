@@ -1,0 +1,23 @@
+{
+  "name": "Galarian Moltres",
+  "number": 146,
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "abilities": [
+    "['Berserk']"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 90,
+    "special_attack": 100,
+    "special_defense": 125,
+    "speed": 90
+  },
+  "generation": 8,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

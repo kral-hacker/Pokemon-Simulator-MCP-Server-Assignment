@@ -1,0 +1,44 @@
+{
+  "name": "Ditto",
+  "number": 132,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    "['Imposter'",
+    "'Limber']"
+  ],
+  "stats": {
+    "hp": 48,
+    "attack": 48,
+    "defense": 48,
+    "special_attack": 48,
+    "special_defense": 48,
+    "speed": 48
+  },
+  "generation": 1,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "transform",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "User becomes a copy of the target until it leaves battle."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "ditto",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/132/"
+      }
+    },
+    "id": 66
+  }
+}

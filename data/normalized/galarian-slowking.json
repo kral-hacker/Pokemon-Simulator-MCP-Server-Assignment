@@ -1,0 +1,25 @@
+{
+  "name": "Galarian Slowking",
+  "number": 199,
+  "types": [
+    "Poison",
+    "Psychic"
+  ],
+  "abilities": [
+    "['Curious Medicine'",
+    "'Own Tempo'",
+    "'Regenerator']"
+  ],
+  "stats": {
+    "hp": 95,
+    "attack": 65,
+    "defense": 80,
+    "special_attack": 110,
+    "special_defense": 110,
+    "speed": 30
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

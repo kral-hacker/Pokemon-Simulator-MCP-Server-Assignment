@@ -1,0 +1,25 @@
+{
+  "name": "Galarian Weezing",
+  "number": 110,
+  "types": [
+    "Poison",
+    "Fairy"
+  ],
+  "abilities": [
+    "['Levitate'",
+    "'Misty Surge'",
+    "'Neutralizing Gas']"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 120,
+    "special_attack": 85,
+    "special_defense": 70,
+    "speed": 60
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

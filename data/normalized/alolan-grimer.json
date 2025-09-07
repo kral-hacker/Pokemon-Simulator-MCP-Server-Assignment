@@ -1,0 +1,25 @@
+{
+  "name": "Alolan Grimer",
+  "number": 88,
+  "types": [
+    "Poison",
+    "Dark"
+  ],
+  "abilities": [
+    "['Gluttony'",
+    "'Poison Touch'",
+    "'Power of Alchemy']"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 25
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

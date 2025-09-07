@@ -1,0 +1,25 @@
+{
+  "name": "Galarian Linoone",
+  "number": 264,
+  "types": [
+    "Dark",
+    "Normal"
+  ],
+  "abilities": [
+    "['Gluttony'",
+    "'Pickup'",
+    "'Quick Feet']"
+  ],
+  "stats": {
+    "hp": 78,
+    "attack": 70,
+    "defense": 61,
+    "special_attack": 50,
+    "special_defense": 61,
+    "speed": 100
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

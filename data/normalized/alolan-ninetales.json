@@ -1,0 +1,24 @@
+{
+  "name": "Alolan Ninetales",
+  "number": 38,
+  "types": [
+    "Ice",
+    "Fairy"
+  ],
+  "abilities": [
+    "['Snow Cloak'",
+    "'Snow Warning']"
+  ],
+  "stats": {
+    "hp": 73,
+    "attack": 67,
+    "defense": 75,
+    "special_attack": 81,
+    "special_defense": 100,
+    "speed": 109
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Galarian Yamask",
+  "number": 562,
+  "types": [
+    "Ground",
+    "Ghost"
+  ],
+  "abilities": [
+    "['Wandering Spirit']"
+  ],
+  "stats": {
+    "hp": 38,
+    "attack": 55,
+    "defense": 85,
+    "special_attack": 30,
+    "special_defense": 65,
+    "speed": 30
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

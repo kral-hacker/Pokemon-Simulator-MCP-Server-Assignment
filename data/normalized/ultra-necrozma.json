@@ -1,0 +1,23 @@
+{
+  "name": "Ultra Necrozma",
+  "number": 800,
+  "types": [
+    "Psychic",
+    "Dragon"
+  ],
+  "abilities": [
+    "['Prism Armor']"
+  ],
+  "stats": {
+    "hp": 97,
+    "attack": 167,
+    "defense": 97,
+    "special_attack": 167,
+    "special_defense": 97,
+    "speed": 129
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

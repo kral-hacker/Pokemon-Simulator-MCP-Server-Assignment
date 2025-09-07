@@ -1,0 +1,24 @@
+{
+  "name": "Tapu Fini",
+  "number": 788,
+  "types": [
+    "Water",
+    "Fairy"
+  ],
+  "abilities": [
+    "['Misty Surge'",
+    "'Telepathy']"
+  ],
+  "stats": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 115,
+    "special_attack": 95,
+    "special_defense": 130,
+    "speed": 85
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

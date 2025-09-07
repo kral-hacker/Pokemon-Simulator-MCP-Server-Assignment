@@ -1,0 +1,23 @@
+{
+  "name": "Galarian Stunfisk",
+  "number": 618,
+  "types": [
+    "Ground",
+    "Steel"
+  ],
+  "abilities": [
+    "['Mimicry']"
+  ],
+  "stats": {
+    "hp": 109,
+    "attack": 81,
+    "defense": 99,
+    "special_attack": 66,
+    "special_defense": 84,
+    "speed": 32
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

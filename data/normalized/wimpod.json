@@ -1,0 +1,134 @@
+{
+  "name": "Wimpod",
+  "number": 767,
+  "types": [
+    "Bug",
+    "Water"
+  ],
+  "abilities": [
+    "['Wimp Out']"
+  ],
+  "stats": {
+    "hp": 25,
+    "attack": 35,
+    "defense": 40,
+    "special_attack": 20,
+    "special_defense": 30,
+    "speed": 80
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "sand-attack",
+      "power": null,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "status",
+      "effect": "Lowers the target’s accuracy by one stage."
+    },
+    {
+      "name": "surf",
+      "power": 90,
+      "accuracy": 100,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Dive users."
+    },
+    {
+      "name": "toxic",
+      "power": null,
+      "accuracy": 90,
+      "type": "poison",
+      "category": "status",
+      "effect": "Badly poisons the target, inflicting more damage every turn."
+    },
+    {
+      "name": "screech",
+      "power": null,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Defense by two stages."
+    },
+    {
+      "name": "double-team",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s evasion by one stage."
+    },
+    {
+      "name": "harden",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Defense by one stage."
+    },
+    {
+      "name": "defense-curl",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises user’s Defense by one stage."
+    },
+    {
+      "name": "waterfall",
+      "power": 80,
+      "accuracy": 100,
+      "type": "water",
+      "category": "physical",
+      "effect": "Has a 20% chance to make the target flinch."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 30,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "golisopod",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/768/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "wimpod",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/767/"
+      }
+    },
+    "id": 396
+  }
+}

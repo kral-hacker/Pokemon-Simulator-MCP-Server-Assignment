@@ -1,0 +1,100 @@
+{
+  "name": "Nihilego",
+  "number": 793,
+  "types": [
+    "Rock",
+    "Poison"
+  ],
+  "abilities": [
+    "['Beast Boost']"
+  ],
+  "stats": {
+    "hp": 109,
+    "attack": 53,
+    "defense": 47,
+    "special_attack": 127,
+    "special_defense": 131,
+    "speed": 103
+  },
+  "generation": 7,
+  "legendary": true,
+  "moves": [
+    {
+      "name": "pound",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "bind",
+      "power": 15,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+    },
+    {
+      "name": "headbutt",
+      "power": 70,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "wrap",
+      "power": 15,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+    },
+    {
+      "name": "acid",
+      "power": 40,
+      "accuracy": 100,
+      "type": "poison",
+      "category": "special",
+      "effect": "Has a 10% chance to lower the target’s Special Defense by one stage."
+    },
+    {
+      "name": "thunderbolt",
+      "power": 90,
+      "accuracy": 100,
+      "type": "electric",
+      "category": "special",
+      "effect": "Has a 10% chance to paralyze the target."
+    },
+    {
+      "name": "thunder-wave",
+      "power": null,
+      "accuracy": 90,
+      "type": "electric",
+      "category": "status",
+      "effect": "Paralyzes the target."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "nihilego",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/793/"
+      }
+    },
+    "id": 414
+  }
+}

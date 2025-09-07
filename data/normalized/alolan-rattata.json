@@ -1,0 +1,25 @@
+{
+  "name": "Alolan Rattata",
+  "number": 19,
+  "types": [
+    "Dark",
+    "Normal"
+  ],
+  "abilities": [
+    "['Gluttony'",
+    "'Hustle'",
+    "'Thick Fat']"
+  ],
+  "stats": {
+    "hp": 30,
+    "attack": 56,
+    "defense": 35,
+    "special_attack": 25,
+    "special_defense": 35,
+    "speed": 72
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

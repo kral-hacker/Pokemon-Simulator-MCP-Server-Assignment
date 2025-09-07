@@ -1,0 +1,23 @@
+{
+  "name": "Mega Beedrill",
+  "number": 15,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "abilities": [
+    "['Adaptability']"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 150,
+    "defense": 40,
+    "special_attack": 15,
+    "special_defense": 80,
+    "speed": 145
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

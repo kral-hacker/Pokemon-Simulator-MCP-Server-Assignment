@@ -1,0 +1,134 @@
+{
+  "name": "Kricketot",
+  "number": 401,
+  "types": [
+    "Bug"
+  ],
+  "abilities": [
+    "['Run Away'",
+    "'Shed Skin']"
+  ],
+  "stats": {
+    "hp": 37,
+    "attack": 25,
+    "defense": 41,
+    "special_attack": 25,
+    "special_defense": 41,
+    "speed": 25
+  },
+  "generation": 4,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "pound",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "tackle",
+      "power": 40,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "growl",
+      "power": null,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "status",
+      "effect": "Lowers the target’s Attack by one stage."
+    },
+    {
+      "name": "absorb",
+      "power": 20,
+      "accuracy": 100,
+      "type": "grass",
+      "category": "special",
+      "effect": "Drains half the damage inflicted to heal the user."
+    },
+    {
+      "name": "string-shot",
+      "power": null,
+      "accuracy": 95,
+      "type": "bug",
+      "category": "status",
+      "effect": "Lowers the target’s Speed by two stages."
+    },
+    {
+      "name": "bide",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User waits for two turns, then hits back for twice the damage it took."
+    },
+    {
+      "name": "snore",
+      "power": 50,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "special",
+      "effect": "Has a 30% chance to make the target flinch.  Only works if the user is sleeping."
+    },
+    {
+      "name": "mud-slap",
+      "power": 20,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "special",
+      "effect": "Has a 100% chance to lower the target’s accuracy by one stage."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 10,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "kricketune",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/402/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "kricketot",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/401/"
+      }
+    },
+    "id": 208
+  }
+}

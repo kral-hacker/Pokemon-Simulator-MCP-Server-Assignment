@@ -1,0 +1,24 @@
+{
+  "name": "Lycanroc Midnight",
+  "number": 745,
+  "types": [
+    "Rock"
+  ],
+  "abilities": [
+    "['Keen Eye'",
+    "'No Guard'",
+    "'Vital Spirit']"
+  ],
+  "stats": {
+    "hp": 85,
+    "attack": 115,
+    "defense": 75,
+    "special_attack": 55,
+    "special_defense": 75,
+    "speed": 82
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

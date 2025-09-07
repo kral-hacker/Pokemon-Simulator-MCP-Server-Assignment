@@ -1,0 +1,136 @@
+{
+  "name": "Mareanie",
+  "number": 747,
+  "types": [
+    "Poison",
+    "Water"
+  ],
+  "abilities": [
+    "['Limber'",
+    "'Merciless'",
+    "'Regenerator']"
+  ],
+  "stats": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 62,
+    "special_attack": 43,
+    "special_defense": 52,
+    "speed": 45
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "poison-sting",
+      "power": 15,
+      "accuracy": 100,
+      "type": "poison",
+      "category": "physical",
+      "effect": "Has a 30% chance to poison the target."
+    },
+    {
+      "name": "pin-missile",
+      "power": 25,
+      "accuracy": 95,
+      "type": "bug",
+      "category": "physical",
+      "effect": "Hits 2-5 times in one turn."
+    },
+    {
+      "name": "bite",
+      "power": 60,
+      "accuracy": 100,
+      "type": "dark",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "hydro-pump",
+      "power": 110,
+      "accuracy": 80,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "surf",
+      "power": 90,
+      "accuracy": 100,
+      "type": "water",
+      "category": "special",
+      "effect": "Inflicts regular damage and can hit Dive users."
+    },
+    {
+      "name": "ice-beam",
+      "power": 90,
+      "accuracy": 100,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "blizzard",
+      "power": 110,
+      "accuracy": 70,
+      "type": "ice",
+      "category": "special",
+      "effect": "Has a 10% chance to freeze the target."
+    },
+    {
+      "name": "peck",
+      "power": 35,
+      "accuracy": 100,
+      "type": "flying",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 38,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [],
+          "is_baby": false,
+          "species": {
+            "name": "toxapex",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/748/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "mareanie",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/747/"
+      }
+    },
+    "id": 385
+  }
+}

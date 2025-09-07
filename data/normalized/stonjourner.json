@@ -1,0 +1,99 @@
+{
+  "name": "Stonjourner",
+  "number": 874,
+  "types": [
+    "Rock"
+  ],
+  "abilities": [
+    "['Power Spot']"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 125,
+    "defense": 135,
+    "special_attack": 20,
+    "special_defense": 20,
+    "speed": 70
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "stomp",
+      "power": 65,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to make the target flinch."
+    },
+    {
+      "name": "mega-kick",
+      "power": 120,
+      "accuracy": 75,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "body-slam",
+      "power": 85,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "physical",
+      "effect": "Has a 30% chance to paralyze the target."
+    },
+    {
+      "name": "take-down",
+      "power": 90,
+      "accuracy": 85,
+      "type": "normal",
+      "category": "physical",
+      "effect": "User receives 1/4 the damage it inflicts in recoil."
+    },
+    {
+      "name": "hyper-beam",
+      "power": 150,
+      "accuracy": 90,
+      "type": "normal",
+      "category": "special",
+      "effect": "User foregoes its next turn to recharge."
+    },
+    {
+      "name": "low-kick",
+      "power": null,
+      "accuracy": 100,
+      "type": "fighting",
+      "category": "physical",
+      "effect": "Inflicts more damage to heavier targets, with a maximum of 120 power."
+    },
+    {
+      "name": "rock-throw",
+      "power": 50,
+      "accuracy": 90,
+      "type": "rock",
+      "category": "physical",
+      "effect": "Inflicts regular damage with no additional effect."
+    },
+    {
+      "name": "earthquake",
+      "power": 100,
+      "accuracy": 100,
+      "type": "ground",
+      "category": "physical",
+      "effect": "Inflicts regular damage and can hit Dig users."
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [],
+      "is_baby": false,
+      "species": {
+        "name": "stonjourner",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/874/"
+      }
+    },
+    "id": 456
+  }
+}

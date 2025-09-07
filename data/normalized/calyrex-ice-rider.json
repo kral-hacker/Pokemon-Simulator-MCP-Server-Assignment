@@ -1,0 +1,23 @@
+{
+  "name": "Calyrex Ice Rider",
+  "number": 898,
+  "types": [
+    "Psychic",
+    "Ice"
+  ],
+  "abilities": [
+    "['As One']"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 165,
+    "defense": 150,
+    "special_attack": 85,
+    "special_defense": 130,
+    "speed": 50
+  },
+  "generation": 8,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

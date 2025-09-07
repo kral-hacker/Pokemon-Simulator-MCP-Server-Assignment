@@ -1,0 +1,22 @@
+{
+  "name": "Mega Glalie",
+  "number": 362,
+  "types": [
+    "Ice"
+  ],
+  "abilities": [
+    "['Refrigerate']"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 80,
+    "special_attack": 120,
+    "special_defense": 80,
+    "speed": 100
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

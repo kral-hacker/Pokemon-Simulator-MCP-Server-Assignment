@@ -1,0 +1,23 @@
+{
+  "name": "Mega Steelix",
+  "number": 208,
+  "types": [
+    "Steel",
+    "Ground"
+  ],
+  "abilities": [
+    "['Sand Force']"
+  ],
+  "stats": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 230,
+    "special_attack": 55,
+    "special_defense": 95,
+    "speed": 30
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

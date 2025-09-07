@@ -1,0 +1,22 @@
+{
+  "name": "Lycanroc Dusk",
+  "number": 745,
+  "types": [
+    "Rock"
+  ],
+  "abilities": [
+    "['Tough Claws']"
+  ],
+  "stats": {
+    "hp": 75,
+    "attack": 117,
+    "defense": 65,
+    "special_attack": 55,
+    "special_defense": 65,
+    "speed": 110
+  },
+  "generation": 7,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Galarian Darmanitan Zen-Mode",
+  "number": 555,
+  "types": [
+    "Ice",
+    "Fire"
+  ],
+  "abilities": [
+    "['Gorilla Tactics'",
+    "'Zen Mode']"
+  ],
+  "stats": {
+    "hp": 105,
+    "attack": 160,
+    "defense": 55,
+    "special_attack": 30,
+    "special_defense": 55,
+    "speed": 135
+  },
+  "generation": 8,
+  "legendary": false,
+  "moves": [],
+  "evolution_chain": null
+}

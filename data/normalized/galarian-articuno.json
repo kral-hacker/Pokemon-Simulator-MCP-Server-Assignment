@@ -1,0 +1,23 @@
+{
+  "name": "Galarian Articuno",
+  "number": 144,
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "abilities": [
+    "['Competitive']"
+  ],
+  "stats": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 85,
+    "special_attack": 125,
+    "special_defense": 100,
+    "speed": 95
+  },
+  "generation": 8,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}

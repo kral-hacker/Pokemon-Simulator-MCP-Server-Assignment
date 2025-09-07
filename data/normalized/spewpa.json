@@ -1,0 +1,168 @@
+{
+  "name": "Spewpa",
+  "number": 665,
+  "types": [
+    "Bug"
+  ],
+  "abilities": [
+    "['Friend Guard'",
+    "'Shed Skin']"
+  ],
+  "stats": {
+    "hp": 45,
+    "attack": 22,
+    "defense": 60,
+    "special_attack": 27,
+    "special_defense": 30,
+    "speed": 29
+  },
+  "generation": 6,
+  "legendary": false,
+  "moves": [
+    {
+      "name": "harden",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Raises the user’s Defense by one stage."
+    },
+    {
+      "name": "protect",
+      "power": null,
+      "accuracy": null,
+      "type": "normal",
+      "category": "status",
+      "effect": "Prevents any moves from hitting the user this turn."
+    },
+    {
+      "name": "iron-defense",
+      "power": null,
+      "accuracy": null,
+      "type": "steel",
+      "category": "status",
+      "effect": "Raises the user’s Defense by two stages."
+    },
+    {
+      "name": "bug-bite",
+      "power": 60,
+      "accuracy": 100,
+      "type": "bug",
+      "category": "physical",
+      "effect": "If target has a berry, inflicts double damage and uses the berry."
+    },
+    {
+      "name": "struggle-bug",
+      "power": 50,
+      "accuracy": 100,
+      "type": "bug",
+      "category": "special",
+      "effect": "Has a 100% chance to lower the target’s Special Attack by one stage."
+    },
+    {
+      "name": "electroweb",
+      "power": 55,
+      "accuracy": 95,
+      "type": "electric",
+      "category": "special",
+      "effect": "Lowers the target’s Speed by one stage."
+    },
+    {
+      "name": "tera-blast",
+      "power": 80,
+      "accuracy": 100,
+      "type": "normal",
+      "category": "special",
+      "effect": null
+    },
+    {
+      "name": "pounce",
+      "power": 50,
+      "accuracy": 100,
+      "type": "bug",
+      "category": "physical",
+      "effect": null
+    }
+  ],
+  "evolution_chain": {
+    "baby_trigger_item": null,
+    "chain": {
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "evolution_details": [
+            {
+              "gender": null,
+              "held_item": null,
+              "item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_affection": null,
+              "min_beauty": null,
+              "min_happiness": null,
+              "min_level": 9,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "turn_upside_down": false
+            }
+          ],
+          "evolves_to": [
+            {
+              "evolution_details": [
+                {
+                  "gender": null,
+                  "held_item": null,
+                  "item": null,
+                  "known_move": null,
+                  "known_move_type": null,
+                  "location": null,
+                  "min_affection": null,
+                  "min_beauty": null,
+                  "min_happiness": null,
+                  "min_level": 12,
+                  "needs_overworld_rain": false,
+                  "party_species": null,
+                  "party_type": null,
+                  "relative_physical_stats": null,
+                  "time_of_day": "",
+                  "trade_species": null,
+                  "trigger": {
+                    "name": "level-up",
+                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                  },
+                  "turn_upside_down": false
+                }
+              ],
+              "evolves_to": [],
+              "is_baby": false,
+              "species": {
+                "name": "vivillon",
+                "url": "https://pokeapi.co/api/v2/pokemon-species/666/"
+              }
+            }
+          ],
+          "is_baby": false,
+          "species": {
+            "name": "spewpa",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/665/"
+          }
+        }
+      ],
+      "is_baby": false,
+      "species": {
+        "name": "scatterbug",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/664/"
+      }
+    },
+    "id": 342
+  }
+}

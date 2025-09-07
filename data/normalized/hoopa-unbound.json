@@ -1,0 +1,23 @@
+{
+  "name": "Hoopa Unbound",
+  "number": 720,
+  "types": [
+    "Psychic",
+    "Dark"
+  ],
+  "abilities": [
+    "['Magician']"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 160,
+    "defense": 60,
+    "special_attack": 170,
+    "special_defense": 130,
+    "speed": 80
+  },
+  "generation": 6,
+  "legendary": true,
+  "moves": [],
+  "evolution_chain": null
+}
