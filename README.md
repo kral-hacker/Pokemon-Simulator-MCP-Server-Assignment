@@ -13,7 +13,7 @@ It was built as part of the **Pokémon Battle Simulation - MCP Server Technical 
 ---
 
 ## 📂 Project Structure
-"""
+```bash
 src/
 │── server.py # MCP server entrypoint (FastAPI)
 │── data_loader.py # Hybrid data loader (Kaggle + PokeAPI)
@@ -21,7 +21,7 @@ src/
 │── schemas.py # Pydantic models for requests & responses
 │── normalized_data/ # JSON files of Pokémon after normalization
 documentation/ # Detailed docs for Data Resource & Battle Simulator"""
-
+```
 
 ---
 
@@ -53,13 +53,15 @@ This ensures **fast and consistent queries**.
 ## 🚀 Running the Server
 
 1. Install dependencies:
-"""pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 
 2. Start server:
-'''uvicorn src.server:app --reload --host 0.0.0.0 --port 8000
-
-'''
+```bash
+uvicorn src.server:app --reload --host 0.0.0.0 --port 8000
+```
 
 3. Access endpoints:
 - Swagger UI → [http://localhost:8000/docs](http://localhost:8000/docs)  
@@ -77,7 +79,7 @@ This ensures **fast and consistent queries**.
 Returns available resources and tools.  
 
 **Example Response:**
-'''
+```bash
 {
 "resources": {
 "pokemon_data": {
@@ -92,7 +94,7 @@ Returns available resources and tools.
 }
 }
 }
-'''
+```
 
 ---
 
@@ -102,13 +104,14 @@ Returns available resources and tools.
 Fetches normalized Pokémon data.  
 
 **Example:**
-'''
+```bash
 curl http://localhost:8000/mcp/resources/pokemon_data/pikachu
-'''
+```
 
 
 **Response:**
-'''{
+```bash
+{
 "name": "pikachu",
 "number": 25,
 "types": ["Electric"],
@@ -126,7 +129,7 @@ curl http://localhost:8000/mcp/resources/pokemon_data/pikachu
 "moves": [...],
 "evolution_chain": "pichu → pikachu → raichu"
 }
-'''
+```
 
 
 ---
@@ -137,18 +140,18 @@ curl http://localhost:8000/mcp/resources/pokemon_data/pikachu
 Runs a battle between two Pokémon.  
 
 **Example Request:**
-'''curl -X POST http://localhost:8000/mcp/tools/battle/simulate
+```bashcurl -X POST http://localhost:8000/mcp/tools/battle/simulate
 -H "Content-Type: application/json"
 -d '{
 "pokemon_a": {"name": "pikachu"},
 "pokemon_b": {"name": "charmander"},
 "options": {"max_turns": 50, "seed": 42}
 }'
-'''
+```
 
 
 **Response (excerpt):**
-'''
+```bash
 {
 "battle_log": [
 "--- Turn 1 ---",
@@ -163,7 +166,7 @@ Runs a battle between two Pokémon.
 "pokemon_b": {"name": "Charmander", "hp": 0, "max_hp": 39, "status": null}
 }
 }
-'''
+```
 
 
 ---
@@ -194,9 +197,9 @@ Runs a battle between two Pokémon.
 - **Simulate a battle**  
   *"Who would win in a battle between Bulbasaur and Squirtle?"*  
   → LLM calls `/mcp/tools/battle/simulate` with:
-'''
+```bash
 {"pokemon_a": {"name": "bulbasaur"}, "pokemon_b": {"name": "squirtle"}}
-'''
+```
 
 
 ---
